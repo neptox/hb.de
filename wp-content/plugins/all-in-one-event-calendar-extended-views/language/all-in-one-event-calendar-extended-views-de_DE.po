@@ -1,0 +1,145 @@
+# Translation of 1.1.0 in German
+# This file is distributed under the same license as the 1.1.0 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2014-08-19 21:40:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: 1.1.0\n"
+
+#: all-in-one-event-calendar-extended-views.php:40
+msgid "All In One Event Calendar Core must be installed to activate extensions"
+msgstr "All In One Event Kalender \"Core\" muss installiert sein um die Erweiterungen zu aktivieren."
+
+#: all-in-one-event-calendar-extended-views.php:54
+msgid "Could not activate the Extended Views add-on: All-in-One Event Calendar version %s or higher is required."
+msgstr "Das Add-On \"Erweiterte Ansichten\" konnte nicht aktiviert werden: Die All-In-One Event Kalender Version %s oder höher wird benötigt."
+
+#: app/controller/ai1ecev.php:55
+msgid "Extended Views"
+msgstr "Erweiterte Ansichten"
+
+#: app/controller/ai1ecev.php:109
+msgid "Posterboard pages show at most"
+msgstr "Plakatwand - Seiten zeigen maximal"
+
+#: app/controller/ai1ecev.php:122
+msgid "Stream pages show at most"
+msgstr "Detail-Liste Seiten zeigen maximal"
+
+#: app/controller/ai1ecev.php:135
+msgid "Posterboard tile minimum width"
+msgstr "Plakatwand - Minimum Breite eines Plakates"
+
+#: app/controller/ai1ecev.php:202
+msgid "Posterboard"
+msgid_plural "Posterboard"
+msgstr[0] "Plakatwand"
+msgstr[1] ""
+
+#: app/controller/ai1ecev.php:216
+msgid "Stream"
+msgid_plural "Stream"
+msgstr[0] "Detail-Liste"
+msgstr[1] ""
+
+#: lib/less/extended_views.php:36
+msgid "Posterboard view"
+msgstr "Ansicht als Plakatwand"
+
+#: lib/less/extended_views.php:39
+msgid "Stream view"
+msgstr "Ansicht als Detail-Liste"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:5
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:5
+msgid "Title font"
+msgstr "Titel Schriftart"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:11
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:11
+msgid "Title font size"
+msgstr "Titel Schriftgröße"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:17
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:17
+msgid "Main background"
+msgstr "Haupt Hintergrund"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:23
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:23
+msgid "Tile background"
+msgstr "Hintergrund des Plakats"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:29
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:29
+msgid "Tile footer background"
+msgstr "Hintergrund der Fussnote des Plakats"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:35
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:35
+msgid "Tile border"
+msgstr "Rahmen des Plakats"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:41
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:41
+msgid "Tile shadow"
+msgstr "Schatten des Plakats"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:47
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:47
+msgid "Image border"
+msgstr "Bildrand"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:53
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:53
+msgid "Image padding color"
+msgstr "Füllfarbe des Bildes"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:59
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:59
+msgid "Image padding width"
+msgstr "Füllbreite des Bildes"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:65
+msgid "Date title text"
+msgstr "Datum Titel Text"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:71
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:71
+msgid "Stream view event border"
+msgstr "Ansicht als Detail-Liste - Rahmen der Veranstaltung"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:77
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:77
+msgid "Stream view event background"
+msgstr "Ansicht als Detail-Liste - Hintergrund der Veranstaltung"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:83
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:83
+msgid "Stream view date divider text"
+msgstr "Ansicht als Detail-Liste - Text der Datum Unterteilung"
+
+#: public/themes-ai1ec/umbra/less/user_variables_ev.php:89
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:89
+msgid "Stream view date divider background"
+msgstr "Ansicht als Detail-Liste - Hintergrund der Datum Unterteilung "
+
+#: public/themes-ai1ec/vortex/less/user_variables_ev.php:65
+msgid "Date label text"
+msgstr "Text des Datumsfelds"
+
+msgid "All-in-One Event Calendar Extended Views by Time.ly"
+msgstr "All-in-One Event Kalender \"Erweiterte Ansichten\" von Time.ly"
+
+msgid "http://time.ly/"
+msgstr "http://time.ly/"
+
+msgid "Posterboard and Stream views for Time.ly's All-in-One Event Calendar plugin"
+msgstr "Ansicht als Plakatwand und Detail-Liste für das Time.ly All-in-One Event Kalender Plugin"
+
+msgid "Time.ly Network Inc."
+msgstr "Time.ly Network Inc."

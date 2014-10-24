@@ -1,0 +1,555 @@
+i.wpappbox-tinymce-button {
+	background-image: url('../buttons/appbox.btn.png');
+}
+
+div.wpappbox { 
+	clear: both;
+	font-family: Arial;
+	border: 1px solid #E5E5E5;
+	background-color: #F9F9F9;
+	width: auto;
+	line-height: 1;
+	color: #545450;
+	margin: 16px 0; 
+	font-size: 1em/16px;
+}
+
+div.wpappbox.simple { 
+	height: 86px;
+}
+
+div.wpappbox.compact { 
+	height: 52px;
+}
+
+div.wpappbox.screenshots-only {
+	cursor: pointer;
+}
+
+div.wpappbox.banner,
+div.wpappbox.video { 
+	padding: 10px;
+}
+
+div.wpappbox.simple img.appicon,
+div.wpappbox.screenshots img.appicon,
+div.wpappbox.compact img.appicon,
+div.wpappbox.video img.appicon,
+div.wpappbox.banner img.appicon { 
+	width: 64px;
+	height: 64px;
+	float: left;
+	margin: 10px !important;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px; 
+}
+
+div.wpappbox.compact img.appicon { 
+	width: 36px;
+	height: 36px;
+	margin: 8px !important;
+}
+
+div.wpappbox.simple div.appdetails,
+div.wpappbox.screenshots div.appdetails,
+div.wpappbox.compact div.appdetails,
+div.wpappbox.banner div.appdetails,
+div.wpappbox.video div.appdetails {
+	font-size: .95em;
+	margin: 10px; 
+	height: 64px;
+}
+
+div.wpappbox.banner div.appdetails,
+div.wpappbox.video div.appdetails {
+	margin: 0;
+	margin-top: 7px;
+}
+
+div.wpappbox.compact div.appdetails {
+	margin: 8px;
+	height: 36px;
+}
+
+div.wpappbox div.appdetails>div {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+div.wpappbox div.appdetails>div.apptitle { 
+	font-size: 1.15em;
+	font-weight: bold; 
+	height: 22px;
+	padding: 0;
+	margin: 0;
+}
+
+div.wpappbox div.appdetails>div.developer {
+	height: 21px;
+	line-height: 21px;
+	vertical-align: middle;
+	padding: 0;
+	margin: 0;
+}
+
+div.wpappbox div.appdetails>div.price {
+	height: 20px;
+	display: table-cell;
+	vertical-align: bottom;
+	padding: 0;
+	margin: 0;
+}
+
+div.wpappbox.compact div.appdetails>div.apptitle,
+div.wpappbox.compact div.appdetails>div.price {
+	height: 18px;
+}
+
+div.wpappbox div.appdetails>span.price-old { 
+	text-decoration: line-through;
+}
+
+div.wpappbox.simple a.appbutton,
+div.wpappbox.screenshots a.appbutton,
+div.wpappbox.compact a.appbutton,
+div.wpappbox.banner a.appbutton, 
+div.wpappbox.video a.appbutton { 
+	height: 44px;
+	float: right;
+	margin: 10px; 
+	display: inline-block;
+	border: 1px solid #E5E5E5;
+	padding: 10px 15px;
+	font-weight: bold;
+	font-size: .95em;
+	line-height: 1.6em;
+	text-align: center;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px; 
+}
+
+div.wpappbox.banner a.appbutton, 
+div.wpappbox.video a.appbutton { 
+	margin: 0px;
+	margin-top: 6px;
+}
+
+div.wpappbox.compact a.appbutton {
+	height: 36px;
+	padding: 0;
+	margin: 8px;
+	margin-top: 7px;
+	width: 48px;
+}
+
+div.wpappbox.compact a.appbutton {
+	background-size: 22px !important;
+}
+
+div.wpappbox.simple div.qrcode,
+div.wpappbox.screenshots div.qrcode,
+div.wpappbox.banner div.qrcode,
+div.wpappbox.video div.qrcode { 
+	height: 86px;
+	width: 86px;
+	float: right;
+}
+
+div.wpappbox.simple div.qrcode img,
+div.wpappbox.screenshots div.qrcode img,
+div.wpappbox.banner div.qrcode img,
+div.wpappbox.video div.qrcode img { 
+	height: 86px; 
+}
+
+div.wpappbox.simple .qrcode:hover img,
+div.wpappbox.screenshots .qrcode:hover img,
+div.wpappbox.banner .qrcode:hover img,
+div.wpappbox.video .qrcode:hover img { 
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	z-index: 9999;
+	margin-top: -57px;
+	margin-left: -57px;
+	border: 3px solid black;
+	cursor: none; 
+}
+
+div.wpappbox.banner div.container,
+div.wpappbox.video div.container { 
+	width: auto;
+	height: auto;
+	position: relative;
+}
+
+div.wpappbox.banner div.qrcode, 
+div.wpappbox.video div.qrcode { 
+	border: 1px solid #e5e5e5;
+	z-index: 100;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 5px;
+	margin-right: -2px; 
+}
+
+div.wpappbox.video div.qrcode { 
+	margin-bottom: 0;
+	margin-right: -2px; 
+}
+
+div.wpappbox.video div.embed { 
+	position: relative; 
+	padding-bottom: 56.25%; 
+	height: 0; 
+	overflow: hidden; 
+	width: 100%;
+}
+
+div.wpappbox.video div.embed>iframe { 
+	width: 100%;
+	height: 100%;
+}
+
+div.wpappbox.banner img.appbanner,
+div.wpappbox.video div.embed>iframe { 
+	width: 100%;
+	margin: 0;
+	border: 1px solid #E5E5E5; 
+}
+
+div.wpappbox div.rating-stars { 
+	width: 53px;
+	height: 11px;
+	margin-left: 2px;
+	display: inline-block;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars00 {
+	background: transparent url('../img/stars/stars00.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars05 {
+	background: transparent url('../img/stars/stars05.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars10 {
+	background: transparent url('../img/stars/stars10.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars15 {
+	background: transparent url('../img/stars/stars15.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars20 {
+	background: transparent url('../img/stars/stars20.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars25 {
+	background: transparent url('../img/stars/stars25.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars30 {
+	background: transparent url('../img/stars/stars30.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars35 {
+	background: transparent url('../img/stars/stars35.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars40 {
+	background: transparent url('../img/stars/stars40.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars45 {
+	background: transparent url('../img/stars/stars45.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox div.stars50 {
+	background: transparent url('../img/stars/stars50.png') no-repeat;
+	background-size: 53px 11px;
+}
+
+div.wpappbox.simple a:link,
+div.wpappbox.simple a:visited,
+div.wpappbox.screenshots a:link,
+div.wpappbox.screenshots a:visited,
+div.wpappbox.banner a:link,
+div.wpappbox.banner a:visited,
+div.wpappbox.video a:link,
+div.wpappbox.video a:visited,
+div.wpappbox.compact a:link,
+div.wpappbox.compact a:visited { 
+	color: #545450; 
+}
+
+div.wpappbox.simple a:hover,
+div.wpappbox.simple a:active,
+div.wpappbox.screenshots a:hover,
+div.wpappbox.screenshots a:active,
+div.wpappbox.banner a:hover,
+div.wpappbox.banner a:active, 
+div.wpappbox.video a:hover,
+div.wpappbox.video a:active, 
+div.wpappbox.compact a:hover,
+div.wpappbox.compact a:active { 
+	text-decoration: none;
+	color: #5588b5;
+}
+
+div.wpappbox.screenshots>div.screenshots { 
+	width: auto;
+	margin: 0 auto;
+	padding: 10px; 
+}
+
+div.wpappbox.screenshots>div.screenshots>div.slider { 
+	overflow-x: scroll;
+	overflow-y: hidden;
+	height: 300px;
+	margin-top: 0; 
+}
+
+div.wpappbox.screenshots>div.screenshots>div.slider>ul { 
+	padding: 0 !important;
+	margin: 0 !important;
+	list-style-image: none;
+	white-space: nowrap;
+}
+
+div.wpappbox.screenshots>div.screenshots>div.slider>ul>li { 
+	padding: 0;
+	margin: 0;
+	margin-right: 6px;
+	list-style-type: none;
+	display: inline; 
+}
+
+div.wpappbox.screenshots>div.screenshots>div.slider>ul>li:last-child { 
+	margin-right: 0; 
+}
+
+div.wpappbox.screenshots>div.screenshots>div.slider>ul>li img { 
+	height: 300px !important;
+	display: inline; 
+}
+
+div.wpappbox.error>span { 
+	display: block;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+	border-left: 4px solid #df4a4a;
+}
+
+div.wpappbox div.appdetails span.fallback { 
+	font-size:.9em;
+	line-height: 1.7em; 
+	white-space: normal;
+}
+
+div.wpappbox div.appdetails span.oldprice { 
+	text-decoration: line-through;
+}
+
+div.wpappbox.appstore a.appbutton { background:#FFF url('../img/appstore.png') no-repeat center center; }
+div.wpappbox.macappstore a.appbutton { background:#FFF url('../img/macappstore.png') no-repeat center center; }
+div.wpappbox.googleplay a.appbutton { background:#FFF url('../img/googleplay.png') no-repeat center center; }
+div.wpappbox.goodoldgames a.appbutton { background:#FFF url('../img/goodoldgames.png') no-repeat center center; }
+div.wpappbox.androidpit a.appbutton { background:#FFF url('../img/androidpit.png') no-repeat center center; }
+div.wpappbox.windowsstore a.appbutton { background:#FFF url('../img/windowsstore.png') no-repeat center center; }
+div.wpappbox.windowsphone a.appbutton { background:#FFF url('../img/windowsphone.png') no-repeat center center; }
+div.wpappbox.firefoxmarketplace a.appbutton { background:#FFF url('../img/firefoxmarketplace.png') no-repeat center center; }
+div.wpappbox.chromewebstore a.appbutton { background:#FFF url('../img/chromewebstore.png') no-repeat center center; }
+div.wpappbox.firefoxaddon a.appbutton { background:#FFF url('../img/firefoxaddon.png') no-repeat center center; }
+div.wpappbox.samsungapps a.appbutton { background:#FFF url('../img/samsungapps.png') no-repeat center center; }
+div.wpappbox.amazonapps a.appbutton { background:#FFF url('../img/amazonapps.png') no-repeat center center; }
+div.wpappbox.wordpress a.appbutton { background:#FFF url('../img/wordpress.png') no-repeat center center;  }
+div.wpappbox.steam a.appbutton { background:#FFF url('../img/steam.png') no-repeat center center; }
+div.wpappbox.operaaddons a.appbutton { background:#FFF url('../img/operaaddons.png') no-repeat center center; }
+
+@media screen and (max-width:600px) { 
+	div.wpappbox .qrcode { 
+		display: none !important
+	}
+}
+
+@media screen and (max-width:475px) { 
+	div.wpappbox.simple a.appbutton>span,
+	div.wpappbox.screenshots a.appbutton>span,
+	div.wpappbox.banner a.appbutton>span,
+	div.wpappbox.video a.appbutton>span { 
+		display: none;
+	}
+	div.wpappbox.simple a.appbutton,
+	div.wpappbox.screenshots a.appbutton,
+	div.wpappbox.banner a.appbutton,
+	div.wpappbox.video a.appbutton { 
+		height: 36px;
+		padding: 0;
+		margin: 8px;
+		margin-top: 7px;
+		width: 48px;
+		background-size: 22px;
+	}
+	div.wpappbox.banner a.appbutton, 
+	div.wpappbox.video a.appbutton { 
+		margin: 0px;
+		margin-top: 3px;
+	}
+	div.wpappbox.simple img.appicon,
+	div.wpappbox.screenshots img.appicon,
+	div.wpappbox.video img.appicon,
+	div.wpappbox.banner img.appicon { 
+		width: 36px;
+		height: 36px;
+		margin: 8px !important;
+	}
+	div.wpappbox.simple div.appdetails, 
+	div.wpappbox.screenshots div.appdetails, 
+	div.wpappbox.video div.appdetails, 
+	div.wpappbox.banner div.appdetails {
+		margin: 8px;
+		height: 36px;
+	} 
+	div.wpappbox.banner div.appdetails, 
+	div.wpappbox.video div.appdetails {
+		margin: 0;
+		margin-top: 8px;
+	}  
+	div.wpappbox.video a.appbutton {
+		margin-top: 10px;
+	} 
+	div.wpappbox.simple { 
+		height: 52px;
+	}
+	div.wpappbox div.appdetails>div.apptitle,
+	div.wpappbox div.appdetails>div.price { 
+		height: 18px;
+	}
+	div.wpappbox div.appdetails>div.developer { 
+		display: none;
+	}
+	div.wpappbox.screenshots>div.screenshots {
+		padding: 8px;
+	}
+	div.wpappbox.screenshots>div.screenshots>div.slider { 
+		margin-top: 0px; 
+	}
+	div.wpappbox div.appdetails span.fallback { 
+		white-space: nowrap;
+	}
+}
+
+@media screen and (max-width:400px) { 
+	div.wpappbox.simple a.appbutton,
+	div.wpappbox.screenshots a.appbutton,
+	div.wpappbox.compact a.appbutton,
+	div.wpappbox.banner a.appbutton,
+	div.wpappbox.video a.appbutton { 
+		display:none; 
+	}
+	div.wpappbox.simple div.appdetails, 
+	div.wpappbox.screenshots div.appdetails, 
+	div.wpappbox.video div.appdetails, 
+	div.wpappbox.banner div.appdetails {
+		margin-right: 8px;
+	} 
+	div.amazonapps a.apptitle { 
+		background: transparent url('../img/amazonapps-small.png') no-repeat right center;
+		background-size: 14px 13px;
+		padding-right: 18px;
+	}
+	div.androidpit a.apptitle { 
+		background: transparent url('../img/androidpit-small.png') no-repeat right center;
+		background-size: 11px 13px;
+		padding-right: 15px;
+	}
+	div.appstore a.apptitle { 
+		background: transparent url('../img/appstore-small.png') no-repeat right center;
+		background-size: 11px 13px;
+		padding-right: 15px;
+	}
+	div.chromewebstore a.apptitle { 
+		background: transparent url('../img/chromewebstore-small.png') no-repeat right center;
+		background-size: 13px 13px;
+		padding-right: 16px;
+	}
+	div.firefoxaddon a.apptitle { 
+		background: transparent url('../img/firefoxaddon-small.png') no-repeat right center;
+		background-size: 13px 13px;
+		padding-right: 17px;
+	}
+	div.firefoxmarketplace a.apptitle { 
+		background: transparent url('../img/firefoxmarketplace-small.png') no-repeat right center;
+		background-size: 12px 13px;
+		padding-right: 16px;
+	}
+	div.goodoldgames a.apptitle { 
+		background: transparent url('../img/goodoldgames-small.png') no-repeat right center;
+		background-size: 29px 13px;
+		padding-right: 33px;
+	}
+	div.googleplay a.apptitle { 
+		background: transparent url('../img/googleplay-small.png') no-repeat right center;
+		background-size: 11px 13px;
+		padding-right: 15px;
+	}
+	div.macappstore a.apptitle { 
+		background: transparent url('../img/macappstore-small.png') no-repeat right center;
+		background-size: 14px 13px;
+		padding-right: 18px;
+	}
+	div.operaaddons a.apptitle { 
+		background: transparent url('../img/operaaddons-small.png') no-repeat right center;
+		background-size: 12px 13px;
+		padding-right: 16px;
+	}
+	div.samsungapps a.apptitle { 
+		background: transparent url('../img/samsungapps-small.png') no-repeat right center;
+		background-size: 12px 13px;
+		padding-right: 16px;
+	}
+	div.steam a.apptitle { 
+		background: transparent url('../img/steam-small.png') no-repeat right center;
+		background-size: 23px 13px;
+		padding-right: 27px;
+	}
+	div.windowsphone a.apptitle { 
+		background: transparent url('../img/windowsphone-small.png') no-repeat right center;
+		background-size: 11px 13px;
+		padding-right: 15px;
+	}
+	div.windowsstore a.apptitle { 
+		background: transparent url('../img/windowsstore-small.png') no-repeat right center;
+		background-size: 12px 13px;
+		padding-right: 16px;
+	}
+	div.wordpress a.apptitle { 
+		background: transparent url('../img/wordpress-small.png') no-repeat right center;
+		background-size: 13px 13px;
+		padding-right: 17px;
+	}
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi), (max-width:400px) {
+}

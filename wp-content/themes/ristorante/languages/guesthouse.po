@@ -1,0 +1,1354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Guesthouse 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-25 15:23+0100\n"
+"PO-Revision-Date: 2012-01-25 15:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: ait-themes.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\ait-themes\\wp-content\\themes\\guesthouse\n"
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:138
+msgid "Sections order for this page"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:146
+msgid "Featured Image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:154
+msgid "Static text"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:162
+msgid "Header Page Settings"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:170
+msgid "Service Boxes Page Settings"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:225
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:226
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:253
+msgid "DropDown Panel Widget Area 1"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:263
+msgid "DropDown Panel Widget Area 2"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:273
+msgid "DropDown Panel Widget Area 3"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:284
+msgid "Subpages Sidebar"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:295
+msgid "Blog Widgets Area"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:306
+msgid "Post Widgets Area"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/functions.php:317
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:178
+msgid "Options"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:233
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:234
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:237
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:55
+msgid "Admin Branding"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:242
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:243
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:56
+msgid "Skins"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:246
+#, php-format
+msgid "Skins for %s"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:251
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:252
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:255
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:57
+msgid "Backup"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:436
+msgid "Options was successfully imported."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:440
+msgid "There was a problem importing your options. Please Try again."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:444
+msgid "You can't import options from <code>"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:448
+msgid "There was a problem importing your options. Content of your backup file is invalid."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:451
+#, php-format
+msgid "Please note that this backup manager backs up only your Theme Options and Admin Branding Options and not your content. To backup your content, please use the %sWordPress Export Tool%s."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:603
+msgid "This skin is not for this theme."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:607
+msgid "Skin was activated."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:611
+msgid "There was a problem with activating your skin. Maybe skin file .ait-skin is missing."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:615
+msgid "Skin file is corrupted. Skin can't be activated."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:655
+#, php-format
+msgid "You don't have any skins now. You can <a href=\"%s\">create your own</a> or <a href=\"%s\">upload</a> some skins."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:661
+#, php-format
+msgid "Directory <code>%s</code> is missing. Please create this directory."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:727
+#, php-format
+msgid "Back to <em>%s</em>"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:829
+#, php-format
+msgid "Skin with folder name <code>%s</code> already exists. Please choose other name."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:837
+#, php-format
+msgid "Skin folder <code>%s</code> can not be created."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:907
+#, php-format
+msgid "Skin config file \"%s\" can not be created."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:918
+#, php-format
+msgid "Skin data file \"%s\" can not be created."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:922
+#, php-format
+msgid "Your new skin \"%s\" has been successfully created. You can download it by clicking on Download button."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:1012
+#, php-format
+msgid "Can't delete skin folder <code>%s</code>. Delete it by yourself."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:1015
+#, php-format
+msgid "Skin folder <code>%s</code> doesn't exists."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-admin.php:1143
+msgid "Uploaded skin is in wrong format. There are missing some important skin's files in ZIP file."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-theme-options-form.php:395
+msgid "All"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/ait-theme-options-form.php:396
+msgid "None"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard-functions.php:93
+msgid "Dashboard"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard-functions.php:94
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:62
+msgid "Documentation"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard-functions.php:95
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:63
+msgid "FAQ"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard-functions.php:96
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:64
+msgid "Videos"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard-functions.php:97
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:65
+msgid "Support Forum"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard.php:14
+msgid "About us"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard.php:15
+msgid "Latest / Featured WordPress theme from AIT Themes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard.php:16
+msgid "Awesome WordPress themes from AIT Themes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/dashboard/ait-dashboard.php:17
+msgid "Twitter"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:141
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:162
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:151
+#, php-format
+msgid ""
+"You are about to activate this skin '%s'\n"
+"  'OK' to activate. 'Cancel' to stop."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:151
+msgid "Use this skin"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:152
+msgid "Download ZIP"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:153
+#, php-format
+msgid ""
+"You are about to delete this skin '%s'\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:153
+msgid "Delete"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Admin/libs/AitSkinsListTable.php:167
+#, php-format
+msgid "All of this theme&#8217;s files are located in<br><code>%2$s</code>."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ait-functions.php:171
+msgid "Cufon Fonts"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ait-functions.php:178
+msgid "Google Fonts"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ait-functions.php:207
+msgid "- select font -"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:68
+msgid "AIT Themes Admin"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/load.php:69
+msgid "AIT Dashboard"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/default/default-custom-type.php:57
+msgid "Show All "
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:15
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:23
+msgid "Grid-Gallery"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:16
+msgid "Picture"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:19
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:18
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:18
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:17
+msgid "Add new"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:18
+msgid "Add new picture"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:19
+msgid "Edit Picture"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:20
+msgid "New Picture"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:21
+msgid "No pictures found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:22
+msgid "No pictures found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:25
+msgid "Manipulating with gallery"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:51
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:49
+msgid "Search Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:52
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:50
+msgid "All Gategories"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:59
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:53
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:51
+msgid "Parent Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:60
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:54
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:52
+msgid "Parent Category:"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:61
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:55
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:53
+msgid "Edit Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:62
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:54
+msgid "Update Gategory"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:63
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:57
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:55
+msgid "Add New Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:64
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:58
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:56
+msgid "New Category Name"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:76
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:97
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:102
+msgid "Thumbnail"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:84
+msgid "Options for Picture"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:96
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:68
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:96
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:98
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:98
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:98
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:103
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:96
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:96
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:97
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:85
+msgid "Title"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:98
+msgid "Large Image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:99
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:87
+msgid "Description"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:71
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:103
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:103
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:102
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:103
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:106
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:93
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:89
+msgid "Order"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/gallery/gallery.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:104
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:102
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:104
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:107
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:102
+msgid "Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:17
+msgid "Home boxes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:18
+msgid "Home box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:20
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:18
+msgid "Add new box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:21
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:19
+msgid "Edit box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:22
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:20
+msgid "New box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:23
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:21
+msgid "No boxes found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:24
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:22
+msgid "No boxes found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:25
+msgid "Home Boxes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:27
+msgid "Manipulating with home boxes on homepage"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:48
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:69
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:97
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:102
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:99
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:102
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:105
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:99
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:97
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:100
+msgid "Image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:55
+msgid "Options for featured box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:70
+msgid "Large box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:72
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:99
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:99
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:98
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:92
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:99
+msgid "Link"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:90
+msgid "Yes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/home-box/home-box.php:92
+msgid "No"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:15
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:23
+msgid "Icon-Sets"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:16
+msgid "Icon-Set"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:18
+msgid "Add new Set"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:19
+msgid "Edit Set"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:20
+msgid "New Set"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:21
+msgid "No Sets found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:22
+msgid "No Sets found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:25
+msgid "Manipulating with icon sets"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:76
+msgid "Icon"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:84
+msgid "Options for Icon-Set"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:98
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:99
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:99
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:104
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:97
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:98
+msgid "Text"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon/icon.php:101
+msgid "Icon-Set Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:15
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:23
+msgid "Icon Menu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:16
+msgid "icon-menu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:18
+msgid "Add new icon menu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:19
+msgid "Edit icon"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:20
+msgid "New icon"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:21
+msgid "No icons found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:22
+msgid "No icons found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:25
+msgid "Manipulating with icon menu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:76
+msgid "Icon Menu image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:85
+msgid "Options for Icon Menu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/icon-menu/icon-menu.php:101
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:101
+msgid "Label"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:15
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:23
+msgid "Partners"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:16
+msgid "partners"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:18
+msgid "Add new partners"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:19
+msgid "Edit partners"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:20
+msgid "New partners"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:21
+msgid "No partners found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:22
+msgid "No partners found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:25
+msgid "Manipulating with partners"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:76
+msgid "Partners image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/partners/partners.php:85
+msgid "Options for partners"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:16
+msgid "Portfolios"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:17
+msgid "Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:18
+msgid "Add New"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:19
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:20
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:21
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:21
+msgid "New Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:22
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:22
+msgid "View Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:23
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:23
+msgid "Search Items"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:24
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:25
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:25
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:25
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:24
+msgid "No items found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:77
+msgid "Portfolio Item Thumbnail"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:99
+msgid "Portfolio Item Name"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:100
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:89
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/portfolio/portfolio.php:104
+msgid "Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:16
+msgid "Presentations"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:17
+msgid "Presentation Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:19
+msgid "Add new presentation item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:20
+msgid "Edit presentation item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:21
+msgid "New item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:22
+msgid "View item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:23
+msgid "Search items"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:24
+msgid "No presentation items found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:76
+msgid "Presentation Item Thumbnail"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:98
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:88
+msgid "Item Name"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/presentation/presentation.php:103
+msgid "Presentation Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:15
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:23
+msgid "Products"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:16
+msgid "product"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:18
+msgid "Add new product"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:19
+msgid "Edit product"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:20
+msgid "New product"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:21
+msgid "No products found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:22
+msgid "No products found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:25
+msgid "Manipulating with products"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:76
+msgid "Product image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/product/product.php:85
+msgid "Options for product"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:15
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:23
+msgid "Rooms"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:16
+msgid "Room"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:18
+msgid "Add new room"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:19
+msgid "Edit room"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:20
+msgid "New room"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:21
+msgid "No rooms found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:22
+msgid "No rooms found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:25
+msgid "Manipulating with rooms"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:83
+msgid "Icon for room"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/room/room.php:91
+msgid "Options for room"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:15
+msgid "Service boxes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:16
+msgid "Service box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:23
+msgid "Service-Boxes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:25
+msgid "Manipulating with service boxes"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:76
+msgid "Icon for box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/service-box/service-box.php:84
+msgid "Options for service box"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:16
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:24
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:16
+msgid "Sliders"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:17
+msgid "Slider"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:19
+msgid "Add new slide"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:20
+msgid "Edit slide"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:21
+msgid "New slide"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:22
+msgid "No slides found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:23
+msgid "No slides found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:26
+msgid "Manipulating with slides and sliders"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:54
+msgid "Search Slider"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:55
+msgid "All Sliders"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:56
+msgid "Edit Slider"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:57
+msgid "Update Slider"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:58
+msgid "Add New Slider"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:59
+msgid "New Slider Name"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:75
+msgid "Slide Image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:83
+msgid "Options for slide"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:98
+msgid "Slider Type"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider/slider.php:99
+msgid "Caption"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:17
+msgid "Slider Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:18
+msgid "Add New Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:19
+msgid "Add New Slider Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:20
+msgid "Edit Slider Item"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:24
+msgid "No Slider Items found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:90
+msgid "Top Image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:91
+msgid "Background Image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/slider-creator/slider-creator.php:94
+msgid "Slider Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:15
+msgid "Top strips"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:16
+msgid "Top strip"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:18
+msgid "Add new strip"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:19
+msgid "Edit strip"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:20
+msgid "New strip"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:21
+msgid "No strips found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:22
+msgid "No strips found in Trash"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:23
+msgid "Top-Strips"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:25
+msgid "Manipulating with top strips"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:76
+msgid "Icon for strip"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/top-strip/top-strip.php:84
+msgid "Options for top strip"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:16
+msgid "Video"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:17
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:18
+msgid "Add New Video"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:19
+msgid "Edit Video"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:20
+msgid "New Video"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:21
+msgid "View Video"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:22
+msgid "Search Videos"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:23
+msgid "No Video Items found"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:86
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:130
+msgid "Thumbnail Image"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:88
+msgid "Video Link"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/CustomTypes/video/video.php:90
+msgid "Video Category"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Shortcodes/custom/ait-custom.php:11
+msgid "top"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Shortcodes/sitemap/ait-sitemap.php:59
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ThemeBox/ThemeBox.php:321
+msgid "Colors Settings"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ThemeBox/ThemeBox.php:322
+msgid "Background images"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ThemeBox/ThemeBox.php:323
+msgid "Font"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ThemeBox/ThemeBoxAjax.php:39
+msgid "Settings succesfully saved. Wheee ^_^"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/ThemeBox/ThemeBoxAjax.php:42
+msgid "I could not save the settings. Change some values or please try again."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-flickr-widget.php:17
+msgid "Display flickr images"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-flickr-widget.php:21
+msgid "Theme &rarr; Flickr"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-flickr-widget.php:127
+msgid "RSS"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-flickr-widget.php:132
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:143
+msgid "Number of posts"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-flickr-widget.php:136
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:165
+msgid "Thumbnail width"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-flickr-widget.php:141
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:170
+msgid "Thumbnail height"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:18
+msgid "Customize displaying posts"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:22
+msgid "Theme &rarr; Posts"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:97
+msgid "read more"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:104
+msgid "No posts"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:148
+msgid "Excerpt length"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:155
+msgid "Show read more"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:161
+msgid "Show thumbnails"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-post-widget.php:175
+msgid "Thumbnail position"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-submenu-widget.php:15
+msgid "Show submenu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-submenu-widget.php:19
+msgid "Theme &rarr; Submenu"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-twitter-widget.php:88
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-twitter-widget.php:90
+msgid "Y/m/d"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-twitter-widget.php:92
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-twitter-widget.php:92
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-twitter-widget.php:264
+msgid "Save"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/Widgets/ait-twitter-widget.php:278
+msgid "Theme &rarr; Twitter"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:34
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:56
+msgid "Edit This"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:275
+msgid "Home"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:299
+#, php-format
+msgid "Category: \"%s\""
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:357
+#, php-format
+msgid "Posts tagged &quot;%s&quot;"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:362
+#, php-format
+msgid "Author: &quot;%s&quot;"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:365
+msgid "Error 404"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:368
+#, php-format
+msgid "Search results for &quot;%s&quot;"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/WpLatteFunctions.php:375
+msgid "Page"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/AIT/Framework/WpLatte/Entities/WpLattePostEntity.php:233
+msgid "There is no excerpt because this is a protected post."
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.general-content-nav.php-d592a9d0a96418f032c52a7eed8384d4.php:22
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.general-content-nav.php-d592a9d0a96418f032c52a7eed8384d4.php:23
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.snippet-comments.php-c1abcd76c27e3c00e1e3dedcdab8d632.php:56
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.snippet-comments.php-c1abcd76c27e3c00e1e3dedcdab8d632.php:77
+msgid "Edit"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.snippet-content-loop.php-0b992d6f11e47976d790a4359701b27f.php:82
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.snippet-rooms-loop.php-e93fbb6cd6225ea62b55a108b9e909cf.php:61
+msgid "Pages:"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.snippet-post-nav.php-dc868001295f7982399ce913b0fdcb30.php:22
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: C:\wamp\www\ait-themes\wp-content\themes\guesthouse/ait-cache/_Nette.FileTemplate/_Templates.snippet-post-nav.php-dc868001295f7982399ce913b0fdcb30.php:23
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+

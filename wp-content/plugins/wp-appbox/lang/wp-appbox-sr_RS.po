@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Appbox\n"
+"POT-Creation-Date: 2014-02-10 17:30+0100\n"
+"PO-Revision-Date: 2014-02-10 17:30+0100\n"
+"Last-Translator: Marcelismus\n"
+"Language-Team: Marcelismus\n"
+"Language: sr_RS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/admin-affiliate.php:10
+msgid "TradeDoubler-ID"
+msgstr "TradeDoubler-ID"
+
+#: admin/admin-affiliate.php:15
+msgid "PHG-ID"
+msgstr "PHG-ID"
+
+#: admin/admin-affiliate.php:21
+#, fuzzy
+msgid "(Mac) App Store &amp; App Store: TradeDoubler und PHG"
+msgstr ""
+"Mac App Store &amp; App Store: TradeDoubler (jsamo za nemačke korisnike)"
+
+#: admin/admin-affiliate.php:22
+#, fuzzy
+msgid ""
+"Du hast eine Affiliate-ID bei PHG? Dann gebe sie hier an und die App-Store-"
+"Links werden mit deiner Affiliate-ID versehen. Du hast keinen PHG-Account?"
+msgstr ""
+"Imate affiliate ID na TradeDoubler? AKo imate unesute ga ovde i vaši app "
+"store links će biti pridodati sa affiliate ID. Nemate TradeDoubler nalog?"
+
+#: admin/admin-affiliate.php:22 admin/admin-affiliate.php:53
+#: admin/admin-affiliate.php:71
+msgid "Hier bekommst du einen."
+msgstr "Nabavite ga ovde."
+
+#: admin/admin-affiliate.php:26
+#, fuzzy
+msgid "Apple Affiliate"
+msgstr "Apple App Store Icons"
+
+#: admin/admin-affiliate.php:29
+msgid "TradeDoubler (TD) - Nur noch bis 31. März 2013"
+msgstr ""
+
+#: admin/admin-affiliate.php:30 admin/user-profiles.php:41
+msgid "Performance Horizon Group (PHG)"
+msgstr ""
+
+#: admin/admin-affiliate.php:45 admin/admin-affiliate.php:63
+#: admin/admin-affiliate.php:81
+msgid "Nutze die ID des Entwicklers"
+msgstr "Koristi ID programera"
+
+#: admin/admin-affiliate.php:47
+#, fuzzy
+msgid ""
+"Ich habe keine ID bei PHG und möchte die ID des Entwicklers nutzen. (In "
+"diesem Falle: <strong>Danke</strong>!)"
+msgstr ""
+"Nemam affiliate ID na  Affili.net  i želim da koristim ID programera. (U "
+"ovom slučaju: <strong>Hvala</strong>!)"
+
+#: admin/admin-affiliate.php:52
+msgid "AndroidPit: Affili.net"
+msgstr "AndroidPit: Affili.net"
+
+#: admin/admin-affiliate.php:53
+msgid ""
+"Du hast eine Affiliate-ID bei Affili.net? Dann gebe sie hier an und die "
+"AndroidPit-Links werden mit deiner Affiliate-ID versehen. Du hast keinen "
+"Affili.net-Account?"
+msgstr ""
+"Imate affiliate ID na Affili.net?  AKo imate unesute ga ovde i vaši app "
+"store links će biti pridodati sa affiliate ID. Nemate Affili.net nalog?"
+
+#: admin/admin-affiliate.php:57 admin/user-profiles.php:53
+msgid "Affili.net-ID"
+msgstr "Affili.net-ID"
+
+#: admin/admin-affiliate.php:65 admin/user-profiles.php:59
+msgid ""
+"Ich habe keine ID bei Affili.net und möchte die ID des Entwicklers nutzen. "
+"(In diesem Falle: <strong>Danke</strong>!)"
+msgstr ""
+"Nemam affiliate ID na  Affili.net  i želim da koristim ID programera. (U "
+"ovom slučaju: <strong>Hvala</strong>!)"
+
+#: admin/admin-affiliate.php:70
+msgid "Amazon Apps: Amazon PartnerNet"
+msgstr "Amazon Apps: Amazon PartnerNet"
+
+#: admin/admin-affiliate.php:71
+msgid ""
+"Du hast eine Affiliate-ID beim Amazon PartnerNet? Dann gebe sie hier an und "
+"die Amazon-App-Shop-Links werden mit deiner Affiliate-ID versehen. Du hast "
+"keinen Amazon-PartnerNet-Account?"
+msgstr ""
+"Imate affiliate ID na  Amazon PartnerNet? AKo imate unesute ga ovde i vaši "
+"app store links će biti pridodati sa affiliate ID. Nemate  Amazon "
+"PartnerNet  nalog?"
+
+#: admin/admin-affiliate.php:75 admin/user-profiles.php:65
+msgid "Amazon PartnerNet ID"
+msgstr "Amazon PartnerNet ID"
+
+#: admin/admin-affiliate.php:83 admin/user-profiles.php:71
+msgid ""
+"Ich habe keine ID beim Amazon PartnerNet und möchte die ID des Entwicklers "
+"nutzen. (In diesem Falle: <strong>Danke</strong>!)"
+msgstr ""
+"Nemam affiliate ID na Amazon PartnerNet  i želim da koristim ID programera. "
+"(U ovom slučaju: <strong>Hvala</strong>!)"
+
+#: admin/admin-affiliate.php:88
+msgid "Benutzerdefinitierte Affiliate-IDs"
+msgstr "Custom affiliate ID"
+
+#: admin/admin-affiliate.php:89
+msgid ""
+"Jeder Benutzer und Autor kann seine eigenen Affiliate-IDs nutzen, sofern "
+"unter seinem Namen ein Artikel veröffentlicht wird. Wird keine ID im "
+"Benutzerprofil angegeben, so werden die globalen IDs verwendet."
+msgstr ""
+"Svaki korisnik i autor može može da koristi svoj affiliate ID ako je pod "
+"njegovim imenom članak objavljen. Ako ID nije odredjen u profilu korisnika, "
+"globalni ID se koristi."
+
+#: admin/admin-affiliate.php:93
+msgid "Benutzer-IDs aktivieren"
+msgstr "Koristi custom ID"
+
+#: admin/admin-affiliate.php:95
+msgid "Aktiviert die Möglichkeit, benutzerspezifische IDs zu nutzen."
+msgstr "Omogućava custom affiliate ID."
+
+#: admin/admin-banner.php:1
+msgid ""
+"Welche App-Banner sollen bei der Verwendung ohne Formatstag standardmäßig "
+"genutzt werden?"
+msgstr ""
+"Koja dugmad se koriste u editoru i koji app baneri se koriste u operaciji "
+"bez specifikacije formata?"
+
+#: admin/admin-banner.php:5
+msgid "Standard App-Banner"
+msgstr "Standard App-Banner"
+
+#: admin/admin-banner.php:8
+msgid "Simple Badge"
+msgstr "Simple Badge"
+
+#: admin/admin-banner.php:9 admin/admin-banner.php:27
+#: admin/admin-banner.php:51
+msgid "Screenshots"
+msgstr "Screenshots"
+
+#: admin/admin-banner.php:10
+msgid "Screenshots Only"
+msgstr "Screenshots Only"
+
+#: admin/admin-banner.php:11
+msgid "Compact Badge"
+msgstr "Compact Badge"
+
+#: admin/admin-banner.php:24 admin/admin-banner.php:48
+msgid "Standard"
+msgstr "Standard"
+
+#: admin/admin-banner.php:25 admin/admin-banner.php:49
+msgid "Simple"
+msgstr "Jednostavno"
+
+#: admin/admin-banner.php:26 admin/admin-banner.php:50
+msgid "Compact"
+msgstr "KompaKtno"
+
+#: admin/admin-banner.php:28 admin/admin-banner.php:52
+msgid "Screenshots&nbsp;Only"
+msgstr "Screenshots&nbsp;samo"
+
+#: admin/admin-banner.php:29 admin/admin-banner.php:53
+msgid "Banner"
+msgstr "Banner"
+
+#: admin/admin-banner.php:30 admin/admin-banner.php:54
+msgid "Video"
+msgstr "Video"
+
+#: admin/admin-buttons.php:47
+msgid ""
+"Welche Buttons sollen im WordPress-Editor angezeigt werden Neben einem "
+"kombinierten Button ist es auch möglich, häufig genutzte Buttons gesondert "
+"anzeigen zu lassen."
+msgstr ""
+"Koja dugmad treba da budu prikazana u WordPress-Editoru? Kao dodatak "
+"kombinovanom dugmetu, takodje je moguće prikazati čedto korišćenu dugmad "
+"zasebno."
+
+#: admin/admin-buttons.php:51
+msgid "Buttonverhalten"
+msgstr "Ponašanje dugmeta"
+
+#: admin/admin-buttons.php:54
+msgid "Zeige sämtliche App-Store-Buttons im Editor"
+msgstr "Prikaži sva App Store dugmad u editoru"
+
+#: admin/admin-buttons.php:55
+msgid ""
+"Zeige sämtliche App-Store-Buttons im Editor innerhalb des Appbox-Buttons"
+msgstr "Prikaži sva App Store dugmad u editoru unutar  AppBox-Button"
+
+#: admin/admin-buttons.php:56
+msgid "Zeige keinerlei Buttons im Editor"
+msgstr "Pokaži u editoru gde nema dugmadi"
+
+#: admin/admin-buttons.php:57
+msgid "Benutzerdefinierte Einstellungen"
+msgstr "Custom postavke"
+
+#: admin/admin-buttons.php:74 admin/admin-buttons.php:113
+msgid "Im Appbox-Button"
+msgstr "Appbox-Button"
+
+#: admin/admin-buttons.php:76 admin/admin-buttons.php:83
+#: admin/admin-buttons.php:90
+msgid "Alle"
+msgstr "Sve"
+
+#: admin/admin-buttons.php:77 admin/admin-buttons.php:84
+#: admin/admin-buttons.php:91
+msgid "Keine"
+msgstr "Nijedan"
+
+#: admin/admin-buttons.php:81 admin/admin-buttons.php:114
+msgid "Als Stand-Alone"
+msgstr "Samostalan"
+
+#: admin/admin-buttons.php:88 admin/admin-buttons.php:115
+msgid "Button ausblenden"
+msgstr "Sakriti dugme"
+
+#: admin/admin-cache.php:42 inc/createoutput.class.php:178
+msgid "von 5 Sternen"
+msgstr "od 5 zvezdica"
+
+#: admin/admin-cache.php:125
+msgid "Titel"
+msgstr "Naslov"
+
+#: admin/admin-cache.php:126
+msgid "Bewertung"
+msgstr "App-ratings"
+
+#: admin/admin-cache.php:127 tpl/banner.php:10 tpl/compact.php:6
+#: tpl/feed.php:7 tpl/screenshots.php:8 tpl/simple.php:8 tpl/video.php:10
+msgid "Preis"
+msgstr "Cena"
+
+#: admin/admin-cache.php:128
+msgid "App Store"
+msgstr "App radnja"
+
+#: admin/admin-cache.php:129
+msgid "Ablauf"
+msgstr "Timeout"
+
+#: admin/admin-cache.php:187
+msgid "Gehe zum Store"
+msgstr "Idi u radnju"
+
+#: admin/admin-cache.php:188 admin/admin-cache.php:195
+msgid "Cache erneuern"
+msgstr "Renew cache"
+
+#: admin/admin-cache.php:189 admin/admin-cache.php:195
+msgid "Löschen"
+msgstr "Obrisati"
+
+#: admin/admin-cache.php:223
+msgid "Es befinden sich keine Apps im WordPress-Cache."
+msgstr "Nema aplikacija u WordPress-Cache."
+
+#: admin/admin-cache.php:238
+msgid "Deine aktuelle Zeit"
+msgstr "Vaše vreme"
+
+#: admin/admin-cache.php:238
+msgid "Serverzeit"
+msgstr "Vreme servera"
+
+#: admin/admin-general.php:1
+msgid "Grundeinstellungen"
+msgstr "Osnovne postavke"
+
+#: admin/admin-general.php:2
+msgid "Sonstiges Gedöns, was keine eigene Kategorie benötigt :D"
+msgstr "Razne postavke koje ne zahtevaju odvojene kategorije"
+
+#: admin/admin-general.php:15
+msgid "QR-Codes"
+msgstr "QR-kodovi"
+
+#: admin/admin-general.php:19
+msgid "Zeigt alle QR-Codes in sämtlichen App-Badges an."
+msgstr "Prikaži sve QR kodove u app badges."
+
+#: admin/admin-general.php:24
+msgid "Zeigt QR-Codes nur für mobile App Stores an:"
+msgstr "Prikaži QR kodove samo za mobilne app:"
+
+#: admin/admin-general.php:29
+msgid ""
+"Blendet sämtliche QR-Codes in den App-Badges aus. Temporär funktioniert dies "
+"auch über das Attribut \"noqrcode\" im Shortcode."
+msgstr "Sakrij sve  QR-Codes iz  App-Badges."
+
+#: admin/admin-general.php:34
+msgid "App-Bewertungen"
+msgstr "App-ratings"
+
+#: admin/admin-general.php:38
+msgid ""
+"Zeige App-Bewertungen aus den Stores im Banner an (Variable {RATING} im "
+"Template)."
+msgstr ""
+"Prikaži app-rating iz prodavnica na baneru (Variable {RATING} u template-"
+"fajlovima)."
+
+#: admin/admin-general.php:43
+msgid "Nofollow"
+msgstr "Nofollow"
+
+#: admin/admin-general.php:47
+msgid ""
+"Fügt allen Links das Attribut \"<a href=\"http://de.wikipedia.org/wiki/"
+"Nofollow\" target=\"_blank\">nofollow</a>\" hinzu"
+msgstr ""
+"Dodaje \"<a href=\"http://de.wikipedia.org/wiki/Nofollow\" target=\"_blank"
+"\"> nofollow</a>\" atribut linkovima"
+
+#: admin/admin-general.php:52
+msgid "Öffne Links in einem neuen Fenster"
+msgstr "Otvoro linkove u novom prozoru"
+
+#: admin/admin-general.php:56
+msgid "Öffnet alle App-Links in einem neuen Fenster (target=\"blank\")"
+msgstr "Otvori linkove aplikacija u novom prozoru (target=\"blank\")"
+
+#: admin/admin-general.php:61
+msgid "\"Neu laden\"-Link anzeigen"
+msgstr "Prikaži \"Reload\" link"
+
+#: admin/admin-general.php:65
+msgid ""
+"Zeigt in der Appbox einen Link zum erneuten Laden der App-Daten an (nur für "
+"Autoren und höher)."
+msgstr ""
+"Prikazuje u Appbox link za reload aplikacinih podtaka (samo za autore i više)"
+
+#: admin/admin-general.php:71
+msgid "URL-Shortener"
+msgstr "URL-Shortener"
+
+#: admin/admin-general.php:74
+msgid "Keine Kurz-URLs verwenden"
+msgstr "Ne koristiti URL shortener"
+
+#: admin/admin-general.php:75
+msgid "TinyURL || tinyurl.com"
+msgstr "TinyURL || tinyurl.com"
+
+#: admin/admin-general.php:81
+msgid "CSS-Sheet des Plugins deaktivieren"
+msgstr "Onemogućiti pluginov sheet"
+
+#: admin/admin-general.php:85
+msgid ""
+"Deaktiviert die Plugin-eigenen Stylesheets und ermöglichen den Einsatz "
+"eigener Anpassungen."
+msgstr ""
+"Onemogućiti pluginove stylesheetove i dozvoliti da koriste njihove sopstvene "
+"adapacije."
+
+#: admin/admin-general.php:91
+msgid "Cache-Einstellungen"
+msgstr "Caching opcije"
+
+#: admin/admin-general.php:92
+msgid ""
+"Die Cachingzeiten geben an, wie oft die Daten aktualisiert vom Server "
+"geladen werden - dies erhöht die Performance und sollte eigentlich nicht "
+"geändert werden."
+msgstr ""
+"Caching interval ukazuje koliko često se podaci updatuju sa servera - ovo "
+"povećava performanse i ne bi trebalo da menjate"
+
+#: admin/admin-general.php:96
+msgid "Caching-Zeit (in Minuten)"
+msgstr "Caching podataka (minute)"
+
+#: admin/admin-general.php:98
+msgid "Die empfohlene Zeitspanne beträgt <strong>300</strong> Minuten"
+msgstr "Preporučeni interval u<strong>300</strong> minutama"
+
+#: admin/admin-general.php:103
+msgid "Fehlerausgabe & Fehlerbehebung"
+msgstr "Error output & troubleshooting"
+
+#: admin/admin-general.php:104
+msgid ""
+"Die Fehlerausgabe sollte nur in Problemfällen eingeschaltet werden. Kann das "
+"Design auseinandernehmen."
+msgstr ""
+"Error output bi trebao da bude uključen u slučaju problema. Disajn može da "
+"bude odvojen."
+
+#: admin/admin-general.php:108
+msgid "Server Timeout"
+msgstr "Server Timeout"
+
+#: admin/admin-general.php:112
+msgid ""
+"Der empfohlene Timeout-Wert beträgt <strong>5</strong> Sekunden. Nur ändern, "
+"sofern Apps nicht gefunden werden."
+msgstr ""
+"Preporučeni timeout je <strong> 5 </ strong> sekundi. Pomeniti samo ako "
+"aplikacije nisu pronadjene."
+
+#: admin/admin-general.php:117
+msgid "Fehlermeldungen"
+msgstr "Error poruke"
+
+#: admin/admin-general.php:121
+msgid "Fehlermeldungen nur für Autoren anzeigen."
+msgstr "Prikaži error poruke samo za autore. "
+
+#: admin/admin-general.php:126
+msgid "Parse Output"
+msgstr "Parse output"
+
+#: admin/admin-general.php:130
+msgid "Parse Output aktivieren. Nur sichtbar für Administratoren."
+msgstr "Activiraj parse output.Vidljiv je samo administratorima."
+
+#: admin/admin-general.php:135
+msgid "Cache deaktivieren"
+msgstr "Onemogući cache"
+
+#: admin/admin-general.php:137
+msgid ""
+"Der Cache nur kann temporär deaktiviert werden, indem an die URL eines "
+"Artikel \"?wpappbox_nocache\" angehangen wird. Nur von Usern möglich, die "
+"mindestens Autor sind."
+msgstr ""
+"Cache može biti privremeno onemogućen dodavanjem priloga URLu članka \"?"
+"wpappbox_nocache\" .  Samo za"
+
+#: admin/admin-general.php:141
+msgid "Neue Daten erzwingen"
+msgstr "Force reloading"
+
+#: admin/admin-general.php:143
+msgid ""
+"Sofern das erneute Laden von App-Daten (trotz Cache) erzwungen werden soll, "
+"dann funktioniert dies, indem an die URL eines Artikels \"?"
+"wpappbox_reload_cache\" angehangen wird. Nur von Usern möglich, die "
+"mindestens Autor sind."
+msgstr ""
+"Ako reloading app-podataka (uprkos cache) bude primoren, onda uraditi ovo  "
+"dodavanjem priloga URLu\"?wpappbox_reload_cache\" . Samo korisnici, koji su "
+"makar autori."
+
+#: admin/admin-general.php:147
+msgid "Apple App Store Icons"
+msgstr "Apple App Store Icons"
+
+#: admin/admin-general.php:151
+msgid "Kompatibilitätsmodus für App-Icons aus dem (Mac) App Store."
+msgstr "Režim za app ikone sa (Mac) App Store."
+
+#: admin/admin-help.php:1
+msgid "Die IDs der Apps"
+msgstr "ID aplikacije"
+
+#: admin/admin-help.php:2
+msgid "Eine kleine Übersicht darüber, wie ihr an die ID einer App gelangt."
+msgstr "Mali pregled kako nabaviti ID aplikacije"
+
+#: admin/admin-help.php:13
+msgid "Der Shortcode"
+msgstr "Skraćenica"
+
+#: admin/admin-help.php:14
+msgid "Eine kleine Übersicht über Tags und Parameter."
+msgstr "Kratak pregled tagova i parametara."
+
+#: admin/admin-help.php:18
+msgid "QR-Code nicht anzeigen"
+msgstr "Ne prikazati QR-Code"
+
+#: admin/admin-help.php:19
+msgid ""
+"Soll der QR-Code nur für bestimmte Banner nicht angezeigt werden, reicht es "
+"aus, den Tag \"noqrcode\" im Shortcode zu verwenden. Beispiel: [appbox "
+"appstore appid noqrcode]"
+msgstr ""
+"Ne želim samo odredejni baner QR-koda, dovoljno je koristiti tag \"noqrcode"
+"\" u skraćenici. Primer: [appbox appstore appid noqrcode]"
+
+#: admin/admin-help.php:22
+msgid "App Store Screenshots"
+msgstr "App Store Screenshots"
+
+#: admin/admin-help.php:23
+msgid ""
+"Bindet man eine Universal-App für iOS ein, so kann man sich auf Wunsch auch "
+"nur die iPhone- beziehungsweise iPad-Screenshots anzeigen lassen. Dazu muss "
+"lediglich ein \"-iphone\" beziehungsweise \"-ipad\" an die App-ID angehangen "
+"werden. Beispiel: [appbox appstore appid-iphone screenshots]"
+msgstr ""
+"Link za univerzalnu aplikaciju za  iOS, tako da možete da ostavite zahtev "
+"prikazan u iPhone ili  iPad screenshotovima. Za ovo, \"-iphone\" ili \"-ipad"
+"\" može biti dodato u App ID. Primer: [appbox appstore appid-iphone "
+"screenshots]"
+
+#: admin/admin-help.php:26
+msgid "Alten Preis anzeigen"
+msgstr "Prikaži staru cenu"
+
+#: admin/admin-help.php:27
+msgid ""
+"Möchte man neben einem Aktionspreis auch einen alten Preis angeben, so kann "
+"der Tag oldprice=\"xy\" (oder alterpreis=\"xy\") im Shortcode verwendet "
+"werden. Dieser wird nur angezeigt, sofern er sich vom aktuellen Preis "
+"unterscheidet. Beispiel: [appbox appstore appid oldprice=\"1,99€\"]"
+msgstr ""
+"Ako želite da sem posebne cene takodje odredite i staru, onda, oldprice=\"xy"
+"\" (ili alterpreis=\"xy\") su korišćene u skraćenici. Ovo se prikazuje samo "
+"ako se razlikuje od trenutne cene. npr: [appbox appstore appid oldprice="
+"\"1,99€\"]"
+
+#: admin/admin-help.php:30
+msgid "Cache temporär deaktivieren"
+msgstr "Privremeno onemogućen cache"
+
+#: admin/admin-help.php:31
+msgid ""
+"Apps können neugeladen werden, indem an die URL eines Artikels der Parameter "
+"\"?wpappbox_reload_cache\" angehangen wird. Nur für eingeloggte Autoren "
+"möglich."
+msgstr ""
+"Cache može biti privremeno onemogućen dodavanjem \"?wpappbox_nocache\" na "
+"URL članka.. Samo za  \"authors\"."
+
+#: admin/admin.php:11
+msgid "Der WP-Appbox-Cache wurde geleert."
+msgstr "Cache je uspešno očišćen."
+
+#: admin/admin.php:12
+msgid "Der WP-Appbox-Cache konnte nicht geleert werden."
+msgstr "Cache ne može da bude prazan."
+
+#: admin/admin.php:91
+msgid "Cache"
+msgstr "Cache"
+
+#: admin/admin.php:92
+msgid "Optionen"
+msgstr "Opcije"
+
+#: admin/admin.php:93
+msgid "App-Banner"
+msgstr "App-Banner"
+
+#: admin/admin.php:94
+msgid "Buttons"
+msgstr "Dugmad"
+
+#: admin/admin.php:95
+msgid "Affiliate IDs"
+msgstr "Affiliate ID-ijevi"
+
+#: admin/admin.php:96
+msgid "Hilfe"
+msgstr "Pomoć"
+
+#: admin/admin.php:109
+msgid "Apps"
+msgstr "Apps"
+
+#: admin/admin.php:189
+#, fuzzy
+msgid ""
+"<a href=\"http://www.blogtogo.de/wp-appbox-2-4-0-bringt-neues-apple-"
+"affiliate-programm-mit-und-entfernt-intel-appup/\" target=\"_blank\">WP-"
+"Appbox 2.4.0</a> ist da! Falls Dir das Plugin gefällt, <a href=\"http://"
+"wordpress.org/support/view/plugin-reviews/wp-appbox\" target=\"_blank"
+"\">bewerte es doch im Plugin-Verzeichnis</a>. :-)"
+msgstr ""
+"<a href=\"http://www.blogtogo.de/wp-appbox-2-2-0-benutzerspezifische-"
+"affiliate-ids-dauerhafter-cache-und-screenshot-only/\" target=\"_blank\">WP-"
+"Appbox 2.0.0 </a>je ovde!. Hvala vam na 10.000 Downloads!<a href=\"http://"
+"wordpress.org/support/view/plugin-reviews/wp-appbox\" target=\"_blank\">Ako "
+"vam se dopada plugin,ocenite ga na plugin direktorijumu</a>. :-)"
+
+#: admin/admin.php:196
+msgid "Folge mir via Twitter"
+msgstr "Pratite me na Twitter-u"
+
+#: admin/admin.php:196
+msgid "Besuch die Plugin-Seite"
+msgstr "Posetite stranicu plugina"
+
+#: admin/admin.php:196
+msgid "Plugin im WordPress Directory"
+msgstr "Plugin na WordPress Plugin direktorijumu"
+
+#: admin/admin.php:196
+msgid "Changelog"
+msgstr "Changelog"
+
+#: admin/admin.php:197
+msgid ""
+"Soll der Cache wirklich geleert werden? Sämtliche App-Daten müssen dann neu "
+"von den Servern der Betreiber geladen werden."
+msgstr ""
+"Ako je cache stvarno prazan? Svi podaci moraju biti reloadovani sa servera "
+"operatora."
+
+#: admin/admin.php:197
+msgid "Cache leeren"
+msgstr "Očistiti Cache"
+
+#: admin/admin.php:259
+msgid "Änderungen speichern"
+msgstr "Sačuvati promene"
+
+#: admin/user-profiles.php:8
+msgid "WP-Appbox: Affiliate-IDs"
+msgstr "WP-Appbox: Affiliate-IDs"
+
+#: admin/user-profiles.php:22 admin/user-profiles.php:45
+msgid ""
+"Deine Affiliate-ID bei TradeDoubler. Wird keine ID angegeben, wird die "
+"Standard-ID genutzt."
+msgstr ""
+"Vaš affiliate ID na TradeDoubler. Ako nijedan ID nije odredjen, default ID "
+"se koristi."
+
+#: admin/user-profiles.php:26 admin/user-profiles.php:45
+#, fuzzy
+msgid ""
+"Deine Affiliate-ID bei PHG. Wird keine ID angegeben, wird die Standard-ID "
+"genutzt."
+msgstr ""
+"Vaš affiliate ID na TradeDoubler. Ako nijedan ID nije odredjen, default ID "
+"se koristi."
+
+#: admin/user-profiles.php:33
+#, fuzzy
+msgid "TradeDoubler- & PHG-ID"
+msgstr "TradeDoubler-ID"
+
+#: admin/user-profiles.php:36 admin/user-profiles.php:56
+#: admin/user-profiles.php:68
+msgid ""
+"Nutze andere IDs als die globalen IDs aus den Einstellungen der WP-Appbox."
+msgstr "Koristi druge ID-ijeve kao globalne ID-ijeve iz WP-Appbox postavki. "
+
+#: admin/user-profiles.php:40
+msgid "TradeDoubler (TD) - Nur noch bis zum 31. März 2014"
+msgstr ""
+
+#: admin/user-profiles.php:47
+#, fuzzy
+msgid ""
+"Ich habe keine Affiliate-ID für Apple und möchte die ID des Entwicklers "
+"nutzen. (In diesem Falle: <strong>Danke</strong>!)"
+msgstr ""
+"Nemam affiliate ID na  Affili.net  i želim da koristim ID programera. (U "
+"ovom slučaju: <strong>Hvala</strong>!)"
+
+#: admin/user-profiles.php:58
+msgid ""
+"Deine Affiliate-ID bei Affili.net. Wird keine ID angegeben, wird die "
+"Standard-ID genutzt."
+msgstr ""
+"Your affiliate ID at Affili.net. If no ID is specified, the default ID is "
+"used."
+
+#: admin/user-profiles.php:70
+msgid ""
+"Deine Affiliate-ID beim Amazon PartnerNet. Wird keine ID angegeben, wird die "
+"Standard-ID genutzt."
+msgstr ""
+"Your affiliate ID at Amazon PartnerNet. If no ID is specified, the default "
+"ID is used."
+
+#: inc/createoutput.class.php:198
+msgid "App-Daten neu laden"
+msgstr "Reload app podatke"
+
+#: inc/createoutput.class.php:205
+msgid "Der App Store wurde nicht erkannt."
+msgstr "App radnja nije prepoznana."
+
+#: inc/createoutput.class.php:208
+msgid "Die App-ID wurde nicht erkannt."
+msgstr " App ID nije prepoznan."
+
+#: inc/createoutput.class.php:211
+msgid "Die App wurde nicht im Store gefunden."
+msgstr "App nije pronadjena u prodavnici."
+
+#: inc/createoutput.class.php:222
+msgid "Temporären Erkennung als Bot"
+msgstr "Privremeno prepoznavanje kao bot"
+
+#: inc/createoutput.class.php:223
+msgid ""
+"Aufgrund einer temporären Erkennung als Bot können momentan leider keine App-"
+"Details angezeigt werden."
+msgstr ""
+"Zbog privremenog prepoznavanje kao bot trenutno nijednan detalj o app nije "
+"prikazan."
+
+#: inc/createoutput.class.php:226
+msgid "Altersverifikation erforderlich"
+msgstr "Verifikacija godina je potrebna"
+
+#: inc/createoutput.class.php:227
+msgid ""
+"Das Spiel benötigt eine Altersverifikation über die Steam-Webseite, daher "
+"können leider keine weiteren Informationen angezeigt werden."
+msgstr ""
+"\"{GAME}\" zahteva verifikaciju godina na Steam website. Zato nažalost, "
+"nijedna informeacija ne može biti prikazana."
+
+#: inc/createoutput.class.php:236
+msgid "Es ist ein unbekannter Fehler aufgetreten."
+msgstr "Nepoznata greška se pojavila."
+
+#: inc/getappinfo.class.php:172 inc/getappinfo.class.php:224
+#: inc/getappinfo.class.php:276 inc/getappinfo.class.php:317
+#: inc/getappinfo.class.php:500 inc/getappinfo.class.php:566
+#: inc/getappinfo.class.php:567 inc/getappinfo.class.php:607
+#: inc/getappinfo.class.php:656 inc/getappinfo.class.php:706
+#: inc/getappinfo.class.php:747 inc/getappinfo.class.php:786
+#: inc/getappinfo.class.php:841
+msgid "Kostenlos"
+msgstr "Besplatno"
+
+#: inc/getappinfo.class.php:201 inc/getappinfo.class.php:867 tpl/banner.php:6
+#: tpl/screenshots.php:4 tpl/simple.php:4 tpl/video.php:6
+msgid "Download"
+msgstr "Download"
+
+#: inc/getappinfo.class.php:649
+msgid "verschiedene"
+msgstr "razno"
+
+#: inc/getappinfo.class.php:835
+msgid "Unbekannt"
+msgstr "Nepoznato"
+
+#: tpl/banner.php:9 tpl/screenshots.php:7 tpl/simple.php:7 tpl/video.php:9
+msgid "Entwickler"
+msgstr "Programer"
+
+#: wp-appbox.php:188
+msgid "Einstellungen"
+msgstr "Postavke"
+
+#: wp-appbox.php:201
+msgid "Folge mir auf Twitter"
+msgstr "Pratite me na Twitteru"
+
+#: wp-appbox.php:202
+msgid "Plugin-Seite"
+msgstr "Plugin stranice"
+
+#: wp-appbox.php:203
+msgid "Bewertung abgeben"
+msgstr "Dodaj pregled"
+
+#: wp-appbox.php:204
+msgid "Amazon Wishlist"
+msgstr "Amazon Wishlist"
+
+#: wp-appbox.php:205
+msgid "PayPal-Donation"
+msgstr "PayPal-Donacija"
+
+#: wp-appbox.php:223
+msgid ""
+"Für die Nutzung dieses Plugins wird mindestens PHP Version 5.0 benötigt."
+msgstr ""
+"Da biste koristili ovaj plugin potrebno vam je najmanje PHP verzija 5.0"
+
+#: wp-appbox.php:229
+msgid ""
+"\"cURL\" ist auf diesem Server deaktiviert, wird aber benötigt. Bitte "
+"aktiviere das Feature oder kontaktiere deinen Webhoster."
+msgstr ""
+"\"cURL\" nije omogućen na ovom serveru ali je potreban. Molim vas omogućite "
+"ovu karakteristiku (ili kontaktirajte vašeg hostera)"
+
+#: wp-appbox.php:232
+msgid ""
+"\"curl_exec\" ist auf diesem Server deaktiviert, wird aber benötigt. Bitte "
+"aktiviere das Feature oder kontaktiere deinen Webhoster."
+msgstr ""
+"\"curl_exec\"nije omogućen na ovom serveru ali je potreban. Molim vas "
+"omogućite ovu karakteristiku (ili kontaktirajte vašeg hostera)"
+
+#~ msgid ""
+#~ "Ich habe keine ID bei TradeDoubler und möchte die ID des Entwicklers "
+#~ "nutzen. (In diesem Falle: <strong>Danke</strong>!)"
+#~ msgstr ""
+#~ "Nemam affiliate ID na TradeDoubler i želim da koristim ID programera. (U "
+#~ "ovom slučaju: <strong>Hvala</strong>!)"
+
+#~ msgid ""
+#~ "\"allow_url_fopen\" ist auf diesem Server deaktiviert, wird aber "
+#~ "benötigt. Bitte aktiviere das Feature oder kontaktiere deinen Webhoster."
+#~ msgstr ""
+#~ "\"allow_url_fopen\" is disabled on this server, but is required. Please "
+#~ "enable this feature (or contact your hoster)."
+
+#~ msgid "Titel nicht kürzen"
+#~ msgstr "Do not shorten title"
+
+#~ msgid ""
+#~ "Zeigt immer den vollen App-Titel, auch wenn dieser zu viele Zeichen "
+#~ "enthält."
+#~ msgstr ""
+#~ "Always show the full app-title, even if it contains too many characters."
+
+#~ msgid "app"
+#~ msgstr "app"
+
+#~ msgid "apps"
+#~ msgstr "apps"
+
+#~ msgid "Der Store konnte <strong>nicht</strong> erkannt werden."
+#~ msgstr "Store could <strong>not</strong> be recognized."
+
+#~ msgid "Es konnte <strong>keine</strong> App-ID erkannt werden."
+#~ msgstr "App-ID could <strong>not</strong> be recognized."
+
+#~ msgid "Settings"
+#~ msgstr "Settings"
+
+#~ msgid "Allgemeines"
+#~ msgstr "General"
+
+#~ msgid "Editor & Ausgabe"
+#~ msgstr "WYSIWYG & Output"
+
+#~ msgid "Fehlerausgabe aktivieren. Nur sichtbar für Administratoren."
+#~ msgstr "Activate error output. Only visible to administrators."
+
+#~ msgid "App Stores &amp; Formateinstellungen"
+#~ msgstr "App Stores &amp; Format settings"
+
+#~ msgid "Appbox"
+#~ msgstr "Appbox"
+
+#~ msgid ""
+#~ "Nutze nur einen Button für alle App Stores (alle anderen Buttons werden "
+#~ "ausgeblendet)"
+#~ msgstr ""
+#~ "Just use one button for all app stores in the editor (all others will be "
+#~ "hidden)"
+
+#~ msgid "Button im Editor anzeigen"
+#~ msgstr "Show button in editor"
+
+#~ msgid "AndroidPit"
+#~ msgstr "AndroidPit"
+
+#~ msgid "App Store &amp; Mac App Store"
+#~ msgstr "App Store &amp; Mac App Store"
+
+#~ msgid "BlackBerry World"
+#~ msgstr "BlackBerry World"
+
+#~ msgid "Firefox Erweiterungen"
+#~ msgstr "Firefox Extensions"
+
+#~ msgid "Firefox Marketplace"
+#~ msgstr "Firefox Marketplace"
+
+#~ msgid "Google Play"
+#~ msgstr "Google Play"
+
+#~ msgid "Opera Add-ons"
+#~ msgstr "Opera Add-ons"
+
+#~ msgid "Samsung Apps"
+#~ msgstr "Samsung Apps"
+
+#~ msgid "Steam"
+#~ msgstr "Steam"
+
+#~ msgid "Windows Store"
+#~ msgstr "Windows Store"
+
+#~ msgid "Windows Phone Store"
+#~ msgstr "Windows Phone Store"
+
+#~ msgid "WordPress Plugin Verzeichnis"
+#~ msgstr "WordPress Plugin Directory"
+
+#~ msgid "Spenden via PayPal"
+#~ msgstr "Donation (PayPal)"

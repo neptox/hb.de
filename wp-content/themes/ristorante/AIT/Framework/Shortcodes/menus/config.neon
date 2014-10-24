@@ -1,0 +1,47 @@
+title: Menus Shortcodes
+type: button
+
+shortcodeName: get_menus	
+popupOptions:
+	type:
+		label: Insert
+		type: type-select
+		class: all
+		default: {
+			posts: {
+				label: Latest menus
+				checked: true
+				shortcodeName: get_menus
+			},
+			post: {
+				label: One specific menu
+				shortcodeName: get_menu
+			},
+			postsCategory: {
+				label: Menus by category
+				shortcodeName: get_menu_category
+			}
+		}
+	closed:
+		label: Closed
+		type: checkbox
+		class: all
+	excerpt:
+		label: Excerpt lenght
+		type: text
+		default: 290
+		class: all
+	number:
+		label: Number of Menus
+		type: text
+		default: 3
+		class: all
+	id:
+		label: Item ID
+		type: text
+		class: get_menu
+	category:
+		label: Category ID
+		type: select-category
+		category: menu
+		class: get_menu_category

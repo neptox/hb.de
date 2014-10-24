@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /anfahrt/action~posterboard/
+Disallow: /anfahrt/action~agenda/
+Disallow: /anfahrt/action~oneday/
+Disallow: /anfahrt/action~month/
+Disallow: /anfahrt/action~week/
+Disallow: /anfahrt/action~stream/

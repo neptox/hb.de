@@ -1,0 +1,1001 @@
+10-13-2014 @ 14:35:34 - Generating payment form for order #6292. Notify URL: http://hof-biergarten.de/wc-api/WC_Gateway_Paypal/
+10-14-2014 @ 15:41:46 - Generating payment form for order #6294. Notify URL: http://hof-biergarten.de/wc-api/WC_Gateway_Paypal/
+10-14-2014 @ 15:43:35 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+10-14-2014 @ 15:43:35 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 1.00
+            [invoice] => GU-6294
+            [protection_eligibility] => Eligible
+            [address_status] => unconfirmed
+            [item_number1] => 
+            [payer_id] => 9VLQHLHWSSZLQ
+            [tax] => 0.00
+            [address_street] => Teststr. 1
+            [payment_date] => 06:42:13 Oct 14, 2014 PDT
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [address_zip] => 82399
+            [mc_shipping] => 0.00
+            [mc_handling] => 0.00
+            [first_name] => Jeremias
+            [mc_fee] => 0.37
+            [address_country_code] => DE
+            [address_name] => Test Test
+            [notify_version] => 3.8
+            [custom] => a:2:{i:0;i:6294;i:1;s:22:"wc_order_543d281a11a01";}
+            [payer_status] => verified
+            [business] => grenzebach-hof@t-online.de
+            [address_country] => Germany
+            [num_cart_items] => 1
+            [mc_handling1] => 0.00
+            [address_city] => München
+            [verify_sign] => AlFkC4eOQipvZbPtSVgev8X4zV0pAHV.NzB9-SyZrcvtomPH-guK1nwo
+            [payer_email] => grenzebach@me.com
+            [mc_shipping1] => 0.00
+            [tax1] => 0.00
+            [txn_id] => 6YA42896R0912531P
+            [payment_type] => instant
+            [last_name] => Grenzebach
+            [address_state] => 
+            [item_name1] => Bestellung #6294 - Test x 1
+            [receiver_email] => grenzebach-hof@t-online.de
+            [payment_fee] => 
+            [quantity1] => 1
+            [receiver_id] => R5SKSZ7DK3KFE
+            [txn_type] => cart
+            [mc_gross_1] => 1.00
+            [mc_currency] => EUR
+            [residence_country] => DE
+            [transaction_subject] => a:2:{i:0;i:6294;i:1;s:22:"wc_order_543d281a11a01";}
+            [payment_gross] => 
+            [ipn_track_id] => 575069152b258
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.2.6
+)
+
+10-14-2014 @ 15:43:37 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-a-origin-www-2.paypal.com
+            [date] => Tue, 14 Oct 2014 13:43:37 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=dSRTec7B1UM_K0sle3Iogq12myStgKWRTgL9iAuiYkO6mORAQnvJElLMlTcFSH4PJdNYiaDSO3VDX4Tq3QrYsjvDTOKP90ekW0345keWf2mkyEFaZxtbHFlsrP5UGEbzGURz8IVwSHTWjQpYHkHeVqZ6lFygDOr74dwmjJbNIXRuYLjRZICYHnrcqPs2EZAdUE7jf6sUqNBZDSb9pUtoAEHWLCnYPhxUuCnYWF3y9x4q_wfPEhWFqx_Go-9ETdesaxmB6NriMwhnQIIiSa-UWTfNJq0FtOyUG4vfjEYQiZHoBxTbpZgn9TSxkWUHFxynDvTMnpRPVnbpe9evAD1xaj_2CSao882QUp2ErRBvWCSQQG2xbXScKCm8BnWHr07HARb1qbIHNdlILwieqG4dIgiZGBHsKZVmpgIMOZ1v3Xeylmc7hYdtI3QjxRq; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Fri, 11-Oct-2024 13:43:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Thu, 13-Oct-2016 13:43:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.73.8.134.1413294217470607; path=/; expires=Thu, 06-Oct-44 13:43:37 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2301115732; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.73.8.67.1413294217460527; path=/; expires=Thu, 06-Oct-44 13:43:37 GMT
+                    [8] => AKDC=slc-a-origin-www-2.paypal.com; expires=Tue, 14-Oct-2014 14:13:37 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => dSRTec7B1UM_K0sle3Iogq12myStgKWRTgL9iAuiYkO6mORAQnvJElLMlTcFSH4PJdNYiaDSO3VDX4Tq3QrYsjvDTOKP90ekW0345keWf2mkyEFaZxtbHFlsrP5UGEbzGURz8IVwSHTWjQpYHkHeVqZ6lFygDOr74dwmjJbNIXRuYLjRZICYHnrcqPs2EZAdUE7jf6sUqNBZDSb9pUtoAEHWLCnYPhxUuCnYWF3y9x4q_wfPEhWFqx_Go-9ETdesaxmB6NriMwhnQIIiSa-UWTfNJq0FtOyUG4vfjEYQiZHoBxTbpZgn9TSxkWUHFxynDvTMnpRPVnbpe9evAD1xaj_2CSao882QUp2ErRBvWCSQQG2xbXScKCm8BnWHr07HARb1qbIHNdlILwieqG4dIgiZGBHsKZVmpgIMOZ1v3Xeylmc7hYdtI3QjxRq
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1728654217
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1476366217
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.134.1413294217470607
+                    [expires] => 2359374217
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE5.WEB.1&silo_version=880&app=slingshot&TIME=2301115732
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.67.1413294217460527
+                    [expires] => 2359374217
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-a-origin-www-2.paypal.com
+                    [expires] => 1413296017
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+10-14-2014 @ 15:43:37 - Received valid response from PayPal
+10-14-2014 @ 15:43:37 - Found order #6294
+10-14-2014 @ 15:43:37 - Payment status: completed
+10-14-2014 @ 15:43:44 - Payment complete.
+10-14-2014 @ 15:46:49 - Generating payment form for order #6295. Notify URL: http://hof-biergarten.de/wc-api/WC_Gateway_Paypal/
+10-14-2014 @ 15:48:25 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+10-14-2014 @ 15:48:25 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 1.00
+            [invoice] => GU-6295
+            [protection_eligibility] => Eligible
+            [address_status] => unconfirmed
+            [item_number1] => 
+            [payer_id] => 9VLQHLHWSSZLQ
+            [tax] => 0.00
+            [address_street] => Teststr. 1
+            [payment_date] => 06:47:06 Oct 14, 2014 PDT
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [address_zip] => 82399
+            [mc_shipping] => 0.00
+            [mc_handling] => 0.00
+            [first_name] => Jeremias
+            [mc_fee] => 0.37
+            [address_country_code] => DE
+            [address_name] => Test Test
+            [notify_version] => 3.8
+            [custom] => a:2:{i:0;i:6295;i:1;s:22:"wc_order_543d2949053cc";}
+            [payer_status] => verified
+            [business] => grenzebach-hof@t-online.de
+            [address_country] => Germany
+            [num_cart_items] => 1
+            [mc_handling1] => 0.00
+            [address_city] => München
+            [verify_sign] => ALg3VMGH92nfPY755893ozF1UTbuAykJByfzNHyCnXnCf9aTDeyD5Prv
+            [payer_email] => grenzebach@me.com
+            [mc_shipping1] => 0.00
+            [tax1] => 0.00
+            [txn_id] => 7AS98016GV401800J
+            [payment_type] => instant
+            [last_name] => Grenzebach
+            [address_state] => 
+            [item_name1] => Bestellung #6295 - Test x 1
+            [receiver_email] => grenzebach-hof@t-online.de
+            [payment_fee] => 
+            [quantity1] => 1
+            [receiver_id] => R5SKSZ7DK3KFE
+            [txn_type] => cart
+            [mc_gross_1] => 1.00
+            [mc_currency] => EUR
+            [residence_country] => DE
+            [transaction_subject] => a:2:{i:0;i:6295;i:1;s:22:"wc_order_543d2949053cc";}
+            [payment_gross] => 
+            [ipn_track_id] => cccf828d1df88
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.2.6
+)
+
+10-14-2014 @ 15:48:28 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-a-origin-www-2.paypal.com
+            [date] => Tue, 14 Oct 2014 13:48:28 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=aWfHV5jHbyD72rz1virI2s0Lo16YHf86AuxXJvakNuHw2LDiTCO9Wgim3xeoblPetXbtkfNYwmxv6oVrhp60NGi22HvinLaGZmXzkfeZ0mBPi1a-v7NOb-IM9u8TBjvMKPvbzjwZ5vYUKiz8YFTtv2lro5B9SC4WCMU3sy6DjOoKeHksdz6nM-AqrD9H2Xxe_lu_Oyd6LBd7wmyYqVzhH1_vqA1efOKftovPML1_7Bop7o9HmNrQfGg-t9Pn98XURvHmPvUFSDkhd8yqnGdX6nFP1Uetn5hkDztQ0N_2CjqAUdTfmaX3cY-8_w5KjaynlLR9oEFzDSIDxhtXjD86Qsf2qZQAJIq-2BEwkOMzqm9Gjnxxv9YcbUk3_2nkIygkFZ9-kJBkGco1k50QbA8fp4U2kE7L3egyazP3eyd99om05cpRkvYCdRFQ86i; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Fri, 11-Oct-2024 13:48:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Thu, 13-Oct-2016 13:48:27 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.73.8.134.1413294507440345; path=/; expires=Thu, 06-Oct-44 13:48:27 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D2871606612; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.73.8.59.1413294507412075; path=/; expires=Thu, 06-Oct-44 13:48:27 GMT
+                    [8] => AKDC=slc-a-origin-www-2.paypal.com; expires=Tue, 14-Oct-2014 14:18:28 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => aWfHV5jHbyD72rz1virI2s0Lo16YHf86AuxXJvakNuHw2LDiTCO9Wgim3xeoblPetXbtkfNYwmxv6oVrhp60NGi22HvinLaGZmXzkfeZ0mBPi1a-v7NOb-IM9u8TBjvMKPvbzjwZ5vYUKiz8YFTtv2lro5B9SC4WCMU3sy6DjOoKeHksdz6nM-AqrD9H2Xxe_lu_Oyd6LBd7wmyYqVzhH1_vqA1efOKftovPML1_7Bop7o9HmNrQfGg-t9Pn98XURvHmPvUFSDkhd8yqnGdX6nFP1Uetn5hkDztQ0N_2CjqAUdTfmaX3cY-8_w5KjaynlLR9oEFzDSIDxhtXjD86Qsf2qZQAJIq-2BEwkOMzqm9Gjnxxv9YcbUk3_2nkIygkFZ9-kJBkGco1k50QbA8fp4U2kE7L3egyazP3eyd99om05cpRkvYCdRFQ86i
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1728654507
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1476366507
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.134.1413294507440345
+                    [expires] => 2359374507
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE5.WEB.1&silo_version=880&app=slingshot&TIME=2871606612
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.59.1413294507412075
+                    [expires] => 2359374507
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-a-origin-www-2.paypal.com
+                    [expires] => 1413296308
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+10-14-2014 @ 15:48:28 - Received valid response from PayPal
+10-14-2014 @ 15:48:28 - Found order #6295
+10-14-2014 @ 15:48:28 - Payment status: completed
+10-14-2014 @ 15:48:34 - Payment complete.
+10-14-2014 @ 15:57:27 - Generating payment form for order #6296. Notify URL: http://hof-biergarten.de/wc-api/WC_Gateway_Paypal/
+10-14-2014 @ 15:59:48 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+10-14-2014 @ 15:59:48 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 1.00
+            [invoice] => GU-6296
+            [protection_eligibility] => Eligible
+            [address_status] => unconfirmed
+            [item_number1] => 
+            [payer_id] => 9VLQHLHWSSZLQ
+            [tax] => 0.00
+            [address_street] => Teststr. 1
+            [payment_date] => 06:58:39 Oct 14, 2014 PDT
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [address_zip] => 82399
+            [mc_shipping] => 0.00
+            [mc_handling] => 0.00
+            [first_name] => Jeremias
+            [mc_fee] => 0.37
+            [address_country_code] => DE
+            [address_name] => Test Test
+            [notify_version] => 3.8
+            [custom] => a:2:{i:0;i:6296;i:1;s:22:"wc_order_543d2bc7dfc76";}
+            [payer_status] => verified
+            [business] => grenzebach-hof@t-online.de
+            [address_country] => Germany
+            [num_cart_items] => 1
+            [mc_handling1] => 0.00
+            [address_city] => München
+            [verify_sign] => AFyUF6IMAvssa3j4KodlbLnfd.9.AuOFvQuJ3aqdN3hLCL.gyXMVHBVP
+            [payer_email] => grenzebach@me.com
+            [mc_shipping1] => 0.00
+            [tax1] => 0.00
+            [txn_id] => 3MR97681J2339071T
+            [payment_type] => instant
+            [last_name] => Grenzebach
+            [address_state] => 
+            [item_name1] => Bestellung #6296 - Test x 1
+            [receiver_email] => grenzebach-hof@t-online.de
+            [payment_fee] => 
+            [quantity1] => 1
+            [receiver_id] => R5SKSZ7DK3KFE
+            [txn_type] => cart
+            [mc_gross_1] => 1.00
+            [mc_currency] => EUR
+            [residence_country] => DE
+            [transaction_subject] => a:2:{i:0;i:6296;i:1;s:22:"wc_order_543d2bc7dfc76";}
+            [payment_gross] => 
+            [ipn_track_id] => 329f23af779aa
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.2.6
+)
+
+10-14-2014 @ 15:59:51 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-a-origin-www-1.paypal.com
+            [date] => Tue, 14 Oct 2014 13:59:51 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=uRcOw4oaYPoZQ3_ZlY-lkCS5hXTbPtXQXZvLTPSz-9Yy5LOPGK2TTtViPR9w6WbnujHP4iGRnDwNsxG15p_O9rqGtUwdIUknhqHwBayMoFYGHRnNe92IVAM9O6FItvnWf6Eo4eZ-dGMNWOJb7S1jRZb95zTU_mu0HMisUUMceGKyMfRlOwTFKvqikA_j0z7gskl6AcQ2AqTxu4sTp_jMfy7hJh88aqrhssjxkBLpP7Sl-WMsGBK3Ksc0svIMnVjWHxC5zkmgF9TUgcgFW3K5OJsKFHhIYzNOSbfviLLVx3AKiosbZCIjJYRoHqoS3iAqWmmH8Ve6aVteSfNHA4njhHyNbocVSbvahlX-oluvyYOibFHo8znHMPRxeyS-m9qFElf0eRDqyBMkRGuoppjUHR8RxxaI-4hh7kzUcuIndKsPS6OCYfUpRlhlbE0; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Fri, 11-Oct-2024 13:59:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Thu, 13-Oct-2016 13:59:50 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.73.8.134.1413295190552608; path=/; expires=Thu, 06-Oct-44 13:59:50 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1445739860; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.73.8.35.1413295190540445; path=/; expires=Thu, 06-Oct-44 13:59:50 GMT
+                    [8] => AKDC=slc-a-origin-www-1.paypal.com; expires=Tue, 14-Oct-2014 14:29:51 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => uRcOw4oaYPoZQ3_ZlY-lkCS5hXTbPtXQXZvLTPSz-9Yy5LOPGK2TTtViPR9w6WbnujHP4iGRnDwNsxG15p_O9rqGtUwdIUknhqHwBayMoFYGHRnNe92IVAM9O6FItvnWf6Eo4eZ-dGMNWOJb7S1jRZb95zTU_mu0HMisUUMceGKyMfRlOwTFKvqikA_j0z7gskl6AcQ2AqTxu4sTp_jMfy7hJh88aqrhssjxkBLpP7Sl-WMsGBK3Ksc0svIMnVjWHxC5zkmgF9TUgcgFW3K5OJsKFHhIYzNOSbfviLLVx3AKiosbZCIjJYRoHqoS3iAqWmmH8Ve6aVteSfNHA4njhHyNbocVSbvahlX-oluvyYOibFHo8znHMPRxeyS-m9qFElf0eRDqyBMkRGuoppjUHR8RxxaI-4hh7kzUcuIndKsPS6OCYfUpRlhlbE0
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1728655190
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1476367190
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.134.1413295190552608
+                    [expires] => 2359375190
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE5.WEB.1&silo_version=880&app=slingshot&TIME=1445739860
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.35.1413295190540445
+                    [expires] => 2359375190
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-a-origin-www-1.paypal.com
+                    [expires] => 1413296991
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+10-14-2014 @ 15:59:51 - Received valid response from PayPal
+10-14-2014 @ 15:59:51 - Found order #6296
+10-14-2014 @ 15:59:51 - Payment status: completed
+10-14-2014 @ 15:59:57 - Payment complete.
+10-14-2014 @ 16:00:42 - Generating payment form for order #6297. Notify URL: http://hof-biergarten.de/wc-api/WC_Gateway_Paypal/
+10-14-2014 @ 16:04:10 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+10-14-2014 @ 16:04:10 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 1.00
+            [invoice] => GU-6297
+            [protection_eligibility] => Eligible
+            [address_status] => unconfirmed
+            [item_number1] => 
+            [payer_id] => 9VLQHLHWSSZLQ
+            [tax] => 0.00
+            [address_street] => Teststr. 1
+            [payment_date] => 07:01:00 Oct 14, 2014 PDT
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [address_zip] => 82399
+            [mc_shipping] => 0.00
+            [mc_handling] => 0.00
+            [first_name] => Jeremias
+            [mc_fee] => 0.37
+            [address_country_code] => DE
+            [address_name] => Test Test
+            [notify_version] => 3.8
+            [custom] => a:2:{i:0;i:6297;i:1;s:22:"wc_order_543d2c89ec8a2";}
+            [payer_status] => verified
+            [business] => grenzebach-hof@t-online.de
+            [address_country] => Germany
+            [num_cart_items] => 1
+            [mc_handling1] => 0.00
+            [address_city] => München
+            [verify_sign] => AWkT50gtrA0iXnh55b939tXXlAFYAFPSpDeAu4.kWodtTLaet5O.l9dQ
+            [payer_email] => grenzebach@me.com
+            [mc_shipping1] => 0.00
+            [tax1] => 0.00
+            [txn_id] => 2TX89100FW185722H
+            [payment_type] => instant
+            [last_name] => Grenzebach
+            [address_state] => 
+            [item_name1] => Bestellung #6297 - Test x 1
+            [receiver_email] => grenzebach-hof@t-online.de
+            [payment_fee] => 
+            [quantity1] => 1
+            [receiver_id] => R5SKSZ7DK3KFE
+            [txn_type] => cart
+            [mc_gross_1] => 1.00
+            [mc_currency] => EUR
+            [residence_country] => DE
+            [transaction_subject] => a:2:{i:0;i:6297;i:1;s:22:"wc_order_543d2c89ec8a2";}
+            [payment_gross] => 
+            [ipn_track_id] => 51dc4850b5
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.2.6
+)
+
+10-14-2014 @ 16:04:13 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-a-origin-www-2.paypal.com
+            [date] => Tue, 14 Oct 2014 14:04:13 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=ZmXk5ZUrPTU6o4EM5h0yS5QMmipYlxot2Dzvr0ftPINR5iS3qIAvXvVlli7Vc9KA7jvEHeoY9ZW8K2JBedFytv6lkecCePncb429NZsKBq1Iw_Gr6wEN_W-FqdijjaLRjjV3yEVAl_zczHt4X-_TlpJ39tKm4ZLoQuB4lG_3KU8jkU99bslk3RC4-ITjUSmICPyLnuaJKeUH0-s5GDEHU90La5mycjindYxFAsZghY2V0I8bZ1NlgWDMQ4ACFyMAYzBcOdNhcMi8A-lxdpn9VU4wBUut-E4dbo87M4KEP3zHcmDlLiHTXXdczV-Yk_dNM7uyTy535HTvNjuOcMTp7TeyVrtwuqnog5jnWpkChirTqO9eflRFbyUdUwaCJ96EU06Ah0RkQQ5_KjEmJebZDnkUbkOQ5F2K3wQc7-VQaFVAt0cc6WTokxctUHi; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Fri, 11-Oct-2024 14:04:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Thu, 13-Oct-2016 14:04:13 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.73.8.134.1413295452909599; path=/; expires=Thu, 06-Oct-44 14:04:12 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D1546468692; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.73.8.65.1413295452897954; path=/; expires=Thu, 06-Oct-44 14:04:12 GMT
+                    [8] => AKDC=slc-a-origin-www-2.paypal.com; expires=Tue, 14-Oct-2014 14:34:13 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => ZmXk5ZUrPTU6o4EM5h0yS5QMmipYlxot2Dzvr0ftPINR5iS3qIAvXvVlli7Vc9KA7jvEHeoY9ZW8K2JBedFytv6lkecCePncb429NZsKBq1Iw_Gr6wEN_W-FqdijjaLRjjV3yEVAl_zczHt4X-_TlpJ39tKm4ZLoQuB4lG_3KU8jkU99bslk3RC4-ITjUSmICPyLnuaJKeUH0-s5GDEHU90La5mycjindYxFAsZghY2V0I8bZ1NlgWDMQ4ACFyMAYzBcOdNhcMi8A-lxdpn9VU4wBUut-E4dbo87M4KEP3zHcmDlLiHTXXdczV-Yk_dNM7uyTy535HTvNjuOcMTp7TeyVrtwuqnog5jnWpkChirTqO9eflRFbyUdUwaCJ96EU06Ah0RkQQ5_KjEmJebZDnkUbkOQ5F2K3wQc7-VQaFVAt0cc6WTokxctUHi
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1728655453
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1476367453
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.134.1413295452909599
+                    [expires] => 2359375452
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE5.WEB.1&silo_version=880&app=slingshot&TIME=1546468692
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.65.1413295452897954
+                    [expires] => 2359375452
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-a-origin-www-2.paypal.com
+                    [expires] => 1413297253
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+10-14-2014 @ 16:04:13 - Received valid response from PayPal
+10-14-2014 @ 16:04:13 - Found order #6297
+10-14-2014 @ 16:04:13 - Payment status: completed
+10-14-2014 @ 16:04:19 - Payment complete.
+10-14-2014 @ 16:13:56 - Generating payment form for order #6298. Notify URL: http://hof-biergarten.de/wc-api/WC_Gateway_Paypal/
+10-14-2014 @ 16:15:37 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+10-14-2014 @ 16:15:37 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 1.00
+            [invoice] => GU-6298
+            [protection_eligibility] => Eligible
+            [address_status] => unconfirmed
+            [item_number1] => 
+            [payer_id] => 9VLQHLHWSSZLQ
+            [tax] => 0.00
+            [address_street] => Teststr. 1
+            [payment_date] => 07:14:55 Oct 14, 2014 PDT
+            [payment_status] => Completed
+            [charset] => windows-1252
+            [address_zip] => 82399
+            [mc_shipping] => 0.00
+            [mc_handling] => 0.00
+            [first_name] => Jeremias
+            [mc_fee] => 0.37
+            [address_country_code] => DE
+            [address_name] => Test Test
+            [notify_version] => 3.8
+            [custom] => a:2:{i:0;i:6298;i:1;s:22:"wc_order_543d2fa4a5630";}
+            [payer_status] => verified
+            [business] => grenzebach-hof@t-online.de
+            [address_country] => Germany
+            [num_cart_items] => 1
+            [mc_handling1] => 0.00
+            [address_city] => München
+            [verify_sign] => AYtVSRTkFjW6RMc29xFatbCbAXd7AmMMaaPzRWCz5SSGGzt01k6guWUT
+            [payer_email] => grenzebach@me.com
+            [mc_shipping1] => 0.00
+            [tax1] => 0.00
+            [txn_id] => 9VC27943A7056040J
+            [payment_type] => instant
+            [last_name] => Grenzebach
+            [address_state] => 
+            [item_name1] => Bestellung #6298 - Test x 1
+            [receiver_email] => grenzebach-hof@t-online.de
+            [payment_fee] => 
+            [quantity1] => 1
+            [receiver_id] => R5SKSZ7DK3KFE
+            [txn_type] => cart
+            [mc_gross_1] => 1.00
+            [mc_currency] => EUR
+            [residence_country] => DE
+            [transaction_subject] => a:2:{i:0;i:6298;i:1;s:22:"wc_order_543d2fa4a5630";}
+            [payment_gross] => 
+            [ipn_track_id] => 9a3f6607a9a5b
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.2.6
+)
+
+10-14-2014 @ 16:15:40 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-a-origin-www-2.paypal.com
+            [date] => Tue, 14 Oct 2014 14:15:40 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=MfngQ-sJzQgG7ZR1LgDlJE7XZ3YsHZujntYD9E_ZyqWahgVWdNf_Wy65fOOida3mCuVgX-Tnr3XsRnW3hkL1jOp2HUNF6fTef47rJmjMpNFYLqhI6A0_sl7HVrmUxcQIDWGBYDXjUDVhggTq1hfteO7qjAYAdz0933RayspAY3U64MzKF47Sdo9q1Y0HRDv_s0vQZLxpkrvaOs35JPO8qyRtPrYi1qziagBvLeD2r-hVX7zXpa4neP5p3EGPInBF-npU4OWZCY32otXm3sZumYYw2p6IacAbr4Wb0kpT_jz3XpuxMnq5Bb9MGj1BirjENgGdyuePm0ReNyhePyaQXTuPMU86pbT_EJs-aRWlnfbpsvM16otOrnLcMiOj7YpZUL6g7EioWrhhttedMoam8HXdDHA5knMBy9l8VFh6eaoX77DDMlCucI6PnMy; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Fri, 11-Oct-2024 14:15:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Thu, 13-Oct-2016 14:15:40 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.73.8.137.1413296139920055; path=/; expires=Thu, 06-Oct-44 14:15:39 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D187710804; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.73.8.55.1413296139906516; path=/; expires=Thu, 06-Oct-44 14:15:39 GMT
+                    [8] => AKDC=slc-a-origin-www-2.paypal.com; expires=Tue, 14-Oct-2014 14:45:40 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => MfngQ-sJzQgG7ZR1LgDlJE7XZ3YsHZujntYD9E_ZyqWahgVWdNf_Wy65fOOida3mCuVgX-Tnr3XsRnW3hkL1jOp2HUNF6fTef47rJmjMpNFYLqhI6A0_sl7HVrmUxcQIDWGBYDXjUDVhggTq1hfteO7qjAYAdz0933RayspAY3U64MzKF47Sdo9q1Y0HRDv_s0vQZLxpkrvaOs35JPO8qyRtPrYi1qziagBvLeD2r-hVX7zXpa4neP5p3EGPInBF-npU4OWZCY32otXm3sZumYYw2p6IacAbr4Wb0kpT_jz3XpuxMnq5Bb9MGj1BirjENgGdyuePm0ReNyhePyaQXTuPMU86pbT_EJs-aRWlnfbpsvM16otOrnLcMiOj7YpZUL6g7EioWrhhttedMoam8HXdDHA5knMBy9l8VFh6eaoX77DDMlCucI6PnMy
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1728656140
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1476368140
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.137.1413296139920055
+                    [expires] => 2359376139
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE5.WEB.1&silo_version=880&app=slingshot&TIME=187710804
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.73.8.55.1413296139906516
+                    [expires] => 2359376139
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-a-origin-www-2.paypal.com
+                    [expires] => 1413297940
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+10-14-2014 @ 16:15:40 - Received valid response from PayPal
+10-14-2014 @ 16:15:40 - Found order #6298
+10-14-2014 @ 16:15:40 - Payment status: completed
+10-14-2014 @ 16:15:46 - Payment complete.

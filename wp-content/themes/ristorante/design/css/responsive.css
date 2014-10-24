@@ -1,0 +1,135 @@
+/* ======================================
+ 
+	Responsive Stylesheet
+ 
+========================================= */
+
+
+@media all and (max-width: 1180px) {
+
+	#page-footer 								{ width: 150px; }
+
+}
+
+
+@media all and (max-width: 497px) {
+
+
+	/*  General Settings
+		====================== */
+
+	/*html 										{ overflow: hidden; }*/
+	#ait-themebox, .colorpicker 				{ display: none; }	
+
+
+	/*  Layout Settings
+		====================== */
+
+	body 										{ min-width: 100%; }
+
+	#page-header, #container, #page-footer 		{ width: 480px; }
+
+	#page-header 								{  }
+		#page-header .site-info					{ text-align: center; }
+		.mainmenu .sub-menu						{ width: 480px !important; left: auto; top: auto; position: absolute; margin: 6px 0 0; }
+		.mainmenu .sub-menu .sub-menu			{ position: static; left: auto; right: auto; width: 180px; border-right: 1px solid transparent; }
+		#page-header .left-widgets				{ text-align: center; }
+
+	#page-footer 								{ position: static; text-align: center; }
+		#page-footer .icons							{ display: inline-block; }	
+			.icons .bubble							{ bottom: 115px; top: auto; right: auto; background-position: 5px 0; }
+		#page-footer .right-widgets					{ width: 480px; position: static }
+
+
+	/*  Font Sizing
+		====================== */
+
+	.mainpage 									{ font-size: 18px; line-height: 25px; }
+
+	.mainmenu > ul > li > a 					{ font-size: 18px;}
+
+	.entry-content								{ font-size: 18px; line-height: 25px; }
+		.entry-content .frame p 					{ font-size: 16px; line-height: 23px; }
+		.entry-content h1, .entry-content h1 a 		{ color: @titlesFontColor; font-family: @fancyFont; font-size: 32px; margin: 0 0 20px 0; font-weight: normal; }
+		.entry-content h2, .entry-content h2 a 		{ color: @titlesFontColor; font-family: @fancyFont; font-size: 28px; margin: 0 0 15px 0; font-weight: normal; }
+		.entry-content h3, .entry-content h3 a 		{ color: @titlesFontColor; font-family: @fancyFont; font-size: 26px; margin: 0 0 10px 0; font-weight: bold;   }
+		.entry-content h4, .entry-content h4 a 		{ color: @titlesFontColor; font-family: @fancyFont; font-size: 25px; margin: 0 0 10px 0; font-weight: normal; }
+		.entry-content h5, .entry-content h5 a 		{ color: @titlesFontColor; font-family: @fancyFont; font-size: 22px; margin: 0 0 10px 0; font-weight: bold;   }
+		.entry-content h6, .entry-content h6 a 		{ color: @titlesFontColor; font-family: @fancyFont; font-size: 21px; margin: 0 0 10px 0; font-weight: normal; }
+
+	.widget-text p 								{ line-height: 25px; }
+	.reservation-form 
+	.jqTransformInputWrapper input				{ font-size: 16px; font-weight: bold; }
+	.reservation-form .select-wrapper span		{ font-size: 14px; }
+
+	.edit-link a 								{ font-size: 16px; text-transform: lowercase; }
+
+	.widget_archive li a,
+	.widget_categories li a,
+	.widget_links li a,
+	.widget_meta li a,
+	.widget_nav_menu li a,
+	.widget_pages li a,
+	.widget_recent_entries li a,
+	.widget_rss li a,
+	.widget_submenu li a 						{ font-size: 18px; line-height: 25px; }
+
+
+	/*  Shortcode Settings
+		====================== */
+
+	.sc-column									{ width: 420px !important; margin: 0 !important; text-align: center; }
+
+	.ait-portfolio.desc-right .pf-page			{ width: 420px !important; margin-right: 0 !important; }
+
+	.sc-fb-comments iframe, .fb_iframe_widget, 
+	.twtr-widget, .twtr-doc						{ width: 416px !important; }
+
+	.sc-modal-content.entry-content				{ width: 338px; }
+
+
+	/*  Widgets Settings
+		====================== */
+
+	h2.widget-title 							{ padding-left: 0; }
+
+	/* Reservation Widget */	
+	.reservation-form							{ padding-left: 0; }
+	.reservation-form form 						{ display: inline-block; }
+	.reservation-form .holder 					{ display: inline-block; }
+	.reservation-form .book-now-button 			{ margin: 0 0 15px 25px; padding: 7px 10px; display: inline-block; }
+	.reservation-form .select-wrapper .jqTransformSelectWrapper ul { left: auto; }
+	.reservation-form .select-wrapper 			{ background-position: right center; }
+	.reservation-form .jqTransformInputWrapper input { padding-left: 10px;}
+
+	.widget_flickr ul							{ padding-right: 30px; }
+
+	#searchform label							{ width: 130px; }
+	#searchform #s 								{ width: 180px; }
+
+	.widget_twitter .twitter-timestamp			{ text-align: left; }
+
+	.widget_featured .featured-item 			{ padding: 25px 65px; }
+	.widget_featured strong 					{ font-size: 16px; }
+	.widget_featured .price						{ padding-bottom: 3px; }
+
+	.widget_text .textwidget 					{ padding: 0;}
+
+
+	/*  Reservation Form Settings
+		====================== */
+	.roomThumbnailWrapper 						{ width: 138px; }
+
+
+	/*  AIT Item Detail Settings
+		====================== */
+	.single-item-send-enquiry select 			{ width: 100px; }
+
+
+	/*  Misc Settings
+		====================== */
+	#container img								{ max-width: 420px; }
+	.info .information							{ background-position-y: 8px; }
+
+
+};

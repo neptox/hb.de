@@ -1,0 +1,61 @@
+topImage:
+	label: Image
+	type: image-url
+slideType:
+	type: disabled
+advancedItemType:
+	type: disabled
+advancedImageSource:
+	type: disabled
+advancedImageTitle:
+	type: disabled
+advancedImageText:
+	type: disabled
+advancedImageLink:
+	type: disabled
+advancedImageLinkTarget:
+	type: disabled
+advancedVideoSource:
+	type: disabled
+advancedVideoTitle:
+	type: disabled
+advancedVideoWidth:
+	type: disabled
+advancedVideoHeight:
+	type: disabled
+advancedVideoAutoplay:
+	type: disabled
+advancedVideoPreview:
+	type: disabled
+advancedSwfSource:
+	type: disabled
+advancedSwfTitle:
+	type: disabled
+advancedSwfPreview:
+	type: disabled
+advancedTransitionPieces:
+	type: disabled
+advancedTransitionTime:
+	type: disabled
+advancedTransitionType:
+	type: disabled
+advancedTransitionDelay:
+	type: disabled
+advancedTransitionDepthOffset:
+	type: disabled
+advancedTransitionCubeDistance:
+	type: disabled
+itemType:
+	type: disabled
+videoUrl:
+	type: disabled
+backgroundImage:
+	type: disabled
+descriptionPosition:
+	type: disabled
+descriptionTopPosition:
+	type: disabled
+link:
+	type: sisabled
+description:
+	type: disabled

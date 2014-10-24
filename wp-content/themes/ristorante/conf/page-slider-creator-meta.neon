@@ -1,0 +1,24 @@
+overrideGlobal:
+	label: Use these settings
+	type: checkbox
+	default:
+		'yes':
+			label: 'Yes'
+
+bgType:
+	label: Page background
+	type: radio
+	default:
+		htmlBg:
+			label: Static image
+		slider:
+			label: Slider
+
+sliderCat:
+	label: Slider Category
+	type: dropdown-categories
+	default: 'slider-creator'
+
+htmlBg:
+	label: Static image for Page Background
+	type: image-url

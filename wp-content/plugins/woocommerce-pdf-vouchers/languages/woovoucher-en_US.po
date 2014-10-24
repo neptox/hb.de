@@ -1,0 +1,1308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce - PDF Vouchers v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-28 12:58:35+0000\n"
+"Last-Translator: admin <sanjay@worldwebtechnology.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/admin/class-woo-vou-admin.php:41
+#: includes/admin/class-woo-vou-admin.php:42
+#: includes/admin/forms/woo-vou-used-list.php:265
+#: includes/class-woo-vou-renderer.php:53
+#: includes/class-woo-vou-renderer.php:695
+#: includes/woo-vou-used-codes-pdf.php:63
+#@ woovoucher
+msgid "Purchased Voucher Codes"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:197
+#@ woovoucher
+msgid "Voucher"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:200
+#: includes/class-woo-vou-model.php:318
+#@ woovoucher
+msgid "Voucher Options"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:329
+#: includes/admin/class-woo-vou-admin.php:345
+#@ woovoucher
+msgid "View Preview"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:346
+#@ woovoucher
+msgctxt "column name"
+msgid "Date"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:385
+#@ woovoucher
+msgid "Make a duplicate from this voucher"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:386
+#@ woovoucher
+msgid "Duplicate"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:418
+#@ woovoucher
+msgid "Copy to a new draft"
+msgstr ""
+
+#: includes/admin/class-woo-vou-admin.php:423
+#@ woovoucher
+msgid "Preview"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:18
+#@ woovoucher
+msgid "Click to add a Site Logo From Settings"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:19
+#@ woovoucher
+msgid "Click to add a Vendor's Logo"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:20
+#@ woovoucher
+msgid "Click to add a Voucher Code"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:21
+#@ woovoucher
+msgid "Click to add a Expiration Date"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:22
+#@ woovoucher
+msgid "Click to add a Vendor's Address"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:23
+#@ woovoucher
+msgid "Click to add a Website URL"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:24
+#@ woovoucher
+msgid "Click to add a Redeem Instructions"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:25
+#@ woovoucher
+msgid "Click to add a Voucher Locations"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:26
+#@ woovoucher
+msgid "Click to add a Blank Block"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:27
+#@ woovoucher
+msgid "Click to add a Custom Block"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-editor.php:32
+#: includes/admin/forms/woo-vou-editor.php:34
+#@ woovoucher
+msgid "Voucher Builder Area"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:13
+#: includes/class-woo-vou-renderer.php:692
+#@ woovoucher
+msgid "Generate / Import Codes"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:14
+#: includes/class-woo-vou-renderer.php:54
+#@ woovoucher
+msgid "Close"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:24
+#@ woovoucher
+msgid "General"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:27
+#@ woovoucher
+msgid "Delete Existing Code"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:30
+#@ woovoucher
+msgid "No"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:31
+#@ woovoucher
+msgid "Yes"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:37
+#@ woovoucher
+msgid "Generate Options"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:43
+#@ woovoucher
+msgid "Number of Voucher Codes"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:49
+#@ woovoucher
+msgid "Submission"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:51
+#@ woovoucher
+msgid "Prefix"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:52
+#@ woovoucher
+msgid "Seperator"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:53
+#@ woovoucher
+msgid "Pattern"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:58
+#@ woovoucher
+msgid "L"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:58
+#@ woovoucher
+msgid "letter"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:58
+#@ woovoucher
+msgid "D"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:58
+#@ woovoucher
+msgid "digit"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:59
+#@ woovoucher
+msgid "e.g. CODE_LLDDD results in CODE_WT108"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:66
+#: includes/admin/forms/woo-vou-import-code-popup.php:101
+#@ woovoucher
+msgid "Import Codes"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:67
+#@ woovoucher
+msgid "Loading..."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:74
+#@ woovoucher
+msgid "Import Options"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:80
+#@ woovoucher
+msgid "CSV Separator"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:86
+#@ woovoucher
+msgid "CSV Enclosure"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-import-code-popup.php:92
+#@ woovoucher
+msgid "Upload CSV File"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:27
+#@ woovoucher
+msgid "Background Style:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:27
+#@ woovoucher
+msgid "Background Pattern"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:27
+#@ woovoucher
+msgid "Background Image"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:27
+#: includes/class-woo-vou-renderer.php:357
+#: includes/class-woo-vou-renderer.php:407
+#: includes/class-woo-vou-renderer.php:453
+#: includes/class-woo-vou-renderer.php:499
+#: includes/class-woo-vou-renderer.php:545
+#: includes/class-woo-vou-renderer.php:591
+#@ woovoucher
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:27
+#@ woovoucher
+msgid "Choose the background style for the PDF."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:30
+#@ woovoucher
+msgid "Background Pattern:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:30
+#@ woovoucher
+msgid "Select background pattern for the PDF."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:33
+#@ woovoucher
+msgid "Background Image:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:33
+#@ woovoucher
+msgid "Upload the background image for the PDF."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:36
+#@ woovoucher
+msgid "Background Color:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:36
+#@ woovoucher
+msgid "Select background color for the PDF."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:39
+#@ woovoucher
+msgid "View:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:39
+#@ woovoucher
+msgid "Landscape"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:39
+#@ woovoucher
+msgid "Portrait"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:39
+#@ woovoucher
+msgid "Select voucher pdf view in landscape or portrait."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:42
+#@ woovoucher
+msgid "Margin Top:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:42
+#@ woovoucher
+msgid "Enter the margin top for the PDF, please set margin in pixel."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:45
+#@ woovoucher
+msgid "Margin Left:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:45
+#@ woovoucher
+msgid "Enter the margin left for the PDF, please set margin in pixel."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:48
+#@ woovoucher
+msgid "Margin Right:"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-meta-options.php:48
+#@ woovoucher
+msgid "Enter the margin right for the PDF, please set margin in pixel."
+msgstr ""
+
+#: includes/admin/forms/woo-vou-used-list.php:74
+#: includes/admin/forms/woo-vou-used-list.php:104
+#@ woovoucher
+msgid "View Details"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-used-list.php:102
+#@ woovoucher
+msgid "ID"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-used-list.php:103
+#@ woovoucher
+msgid "Download Title"
+msgstr ""
+
+#: includes/admin/forms/woo-vou-used-list.php:129
+#@ woovoucher
+msgid "No purchased voucher code yet."
+msgstr ""
+
+#: includes/class-woo-vou-model.php:308
+#: includes/class-woo-vou-renderer.php:666
+#@ woovoucher
+msgid "Please Select"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:325
+#@ woovoucher
+msgid "Site Logo:"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:326
+#@ woovoucher
+msgid "Here you can upload a logo of your site. This logo will then be displayed on the Voucher as the Site Logo."
+msgstr ""
+
+#: includes/class-woo-vou-model.php:332
+#@ woovoucher
+msgid "PDF File Name:"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:333
+#@ woovoucher
+msgid "Enter the PDF file name. This file name will be used when generate a PDF of purchased voucher codes. The available tags are:"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:333
+#: includes/class-woo-vou-model.php:342
+#@ woovoucher
+msgid "displays the current date"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:341
+#@ woovoucher
+msgid "CSV File Name:"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:342
+#@ woovoucher
+msgid "Enter the CSV file name. This file name will be used when generate a CSV of purchased voucher codes. The available tags are:"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:350
+#: includes/class-woo-vou-renderer.php:680
+#@ woovoucher
+msgid "PDF Template:"
+msgstr ""
+
+#: includes/class-woo-vou-model.php:351
+#@ woovoucher
+msgid "Select PDF Template."
+msgstr ""
+
+#: includes/class-woo-vou-model.php:431
+#@ woovoucher
+msgid "(Copy)"
+msgstr ""
+
+#: includes/class-woo-vou-public.php:279
+#@ woovoucher
+msgid "Download Voucher"
+msgstr ""
+
+#: includes/class-woo-vou-public.php:350
+#@ woovoucher
+msgid "Out Of Stock"
+msgstr ""
+
+#: includes/class-woo-vou-public.php:401
+#@ woovoucher
+msgid "Sorry but you have not product this file."
+msgstr ""
+
+#: includes/class-woo-vou-public.php:401
+#@ woovoucher
+msgid "Error"
+msgstr ""
+
+#: includes/class-woo-vou-public.php:442
+#, php-format
+#@ woovoucher
+msgid "%s item have not enough quantity."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:69
+#@ woovoucher
+msgid "Export CSV"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:70
+#@ woovoucher
+msgid "Generate PDF"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:76
+#: includes/class-woo-vou-renderer.php:284
+#: includes/class-woo-vou-scripts.php:80
+#: includes/class-woo-vou-scripts.php:81
+#: includes/woo-vou-used-codes-export-csv.php:45
+#: includes/woo-vou-used-codes-pdf.php:75
+#@ woovoucher
+msgid "Voucher Code"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:77
+#: includes/woo-vou-used-codes-export-csv.php:46
+#: includes/woo-vou-used-codes-pdf.php:76
+#@ woovoucher
+msgid "Buyer's Name"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:78
+#: includes/woo-vou-used-codes-export-csv.php:47
+#: includes/woo-vou-used-codes-pdf.php:77
+#@ woovoucher
+msgid "Order Date"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:79
+#: includes/woo-vou-used-codes-export-csv.php:48
+#: includes/woo-vou-used-codes-pdf.php:78
+#@ woovoucher
+msgid "Order ID"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:124
+#: includes/woo-vou-used-codes-pdf.php:140
+#@ woovoucher
+msgid "No voucher codes purchased yet."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:159
+#@ woovoucher
+msgid "Left"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:160
+#@ woovoucher
+msgid "Center"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:161
+#@ woovoucher
+msgid "Right"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:167
+#@ woovoucher
+msgid "1 Column"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:168
+#@ woovoucher
+msgid "2 Column"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:169
+#@ woovoucher
+msgid "3 Column"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:191
+#@ woovoucher
+msgid "Title"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:202
+#@ woovoucher
+msgid "Enter a voucher code title."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:208
+#@ woovoucher
+msgid "Title Background Color"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:219
+#: includes/class-woo-vou-renderer.php:368
+#: includes/class-woo-vou-renderer.php:418
+#: includes/class-woo-vou-renderer.php:464
+#: includes/class-woo-vou-renderer.php:510
+#: includes/class-woo-vou-renderer.php:556
+#: includes/class-woo-vou-renderer.php:602
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:662
+#@ woovoucher
+msgid "Select Color"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:223
+#: includes/class-woo-vou-renderer.php:372
+#: includes/class-woo-vou-renderer.php:422
+#: includes/class-woo-vou-renderer.php:468
+#: includes/class-woo-vou-renderer.php:514
+#: includes/class-woo-vou-renderer.php:560
+#: includes/class-woo-vou-renderer.php:606
+#@ woovoucher
+msgid "Select a background color for the text box."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:250
+#@ woovoucher
+msgid "Title Font Size"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:254
+#@ woovoucher
+msgid "pt"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:254
+#@ woovoucher
+msgid "Enter a font size for the text box."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:260
+#@ woovoucher
+msgid "Title Alignment"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:268
+#@ woovoucher
+msgid "Select text align for the voucher code title."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:295
+#@ woovoucher
+msgid "Enter your voucher codes content. The available tags are:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:295
+#@ woovoucher
+msgid "displays the voucher code(s)"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:301
+#@ woovoucher
+msgid "Voucher Code Border"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:305
+#@ woovoucher
+msgid "Select"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:310
+#@ woovoucher
+msgid "Select border for the voucher code."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:316
+#@ woovoucher
+msgid "Voucher Code Alignment"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:324
+#@ woovoucher
+msgid "Select text align for the voucher code."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:378
+#: includes/class-woo-vou-renderer.php:428
+#: includes/class-woo-vou-renderer.php:474
+#: includes/class-woo-vou-renderer.php:520
+#: includes/class-woo-vou-renderer.php:566
+#: includes/class-woo-vou-renderer.php:612
+#@ woovoucher
+msgid "Content"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:389
+#: includes/class-woo-vou-renderer.php:435
+#: includes/class-woo-vou-renderer.php:481
+#: includes/class-woo-vou-renderer.php:527
+#: includes/class-woo-vou-renderer.php:573
+#@ woovoucher
+msgid "Enter your content. The available tags are:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:389
+#: includes/class-woo-vou-renderer.php:620
+#@ woovoucher
+msgid "displays the voucher redeem instruction"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:435
+#: includes/class-woo-vou-renderer.php:623
+#@ woovoucher
+msgid "displays the voucher expire date"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:481
+#@ woovoucher
+msgid "displays the vendor' address"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:527
+#@ woovoucher
+msgid "displays the website url"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:573
+#@ woovoucher
+msgid "displays the voucher location"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:619
+#@ woovoucher
+msgid "Enter your custom content. The available tags are:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:621
+#@ woovoucher
+msgid "displays the voucher site logo"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:622
+#@ woovoucher
+msgid "displays the vendor logo"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:624
+#@ woovoucher
+msgid "displays the vendor address"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:625
+#@ woovoucher
+msgid "displays the site url"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:626
+#@ woovoucher
+msgid "displays the location(s)"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:650
+#@ woovoucher
+msgid "PDF Vouchers"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:677
+#@ woovoucher
+msgid "Enable Voucher Codes:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:677
+#@ woovoucher
+msgid "To enable the Voucher for this Product check the \"Enable Voucher Codes\" check box."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:680
+#@ woovoucher
+msgid "Select a PDF template. Leave it empty to use the template from the settings page."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:683
+#@ woovoucher
+msgid "Vendor's Logo:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:683
+#@ woovoucher
+msgid "Allows you to upload a logo of the vendor for which this Voucher is valid. The logo will also be displayed on the PDF document."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:686
+#@ woovoucher
+msgid "Available Voucher Codes:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:686
+#@ woovoucher
+msgid "Enter the amount of available voucher codes. Leave it empty for unlimited purchases."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:689
+#@ woovoucher
+msgid "Voucher Codes:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:689
+#@ woovoucher
+msgid "If you have a list of Voucher Codes you can copy and paste them in to this option. Make sure, that they are comma separated."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:692
+#@ woovoucher
+msgid "Generate / Import Codes:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:692
+#@ woovoucher
+msgid "Here you can import a csv file with voucher vodes or you can enter the prefix, pattern and extension will automatically create the voucher codes."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:695
+#@ woovoucher
+msgid "Purchased Voucher Code:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:695
+#@ woovoucher
+msgid "Click on the button to see a list of all purchased voucher vodes."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:698
+#@ woovoucher
+msgid "Only one time"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:698
+#@ woovoucher
+msgid "More than one time"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:698
+#@ woovoucher
+msgid "Usability:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:698
+#@ woovoucher
+msgid "Choose how many times the same Voucher Code can be used by the users."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:701
+#@ woovoucher
+msgid "Expiration Date:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:701
+#@ woovoucher
+msgid "If you want to make the Voucher Code(s) valid for a specific time only, you can enter an expiration date here. If the Voucher Code never expires, then leave that option blank."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:704
+#@ woovoucher
+msgid "Vendor's Address:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:704
+#@ woovoucher
+msgid "Here you can enter the complete Vendor's address. This will be displayed on the PDF document sent to the customers so that they know where to redeem this Voucher. Limited HTML is allowed."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:707
+#@ woovoucher
+msgid "Website URL:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:707
+#@ woovoucher
+msgid "Enter the Vendor's website URL here. This will be displayed on the PDF document sent to the customer."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:710
+#@ woovoucher
+msgid "Redeem Instructions:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:710
+#@ woovoucher
+msgid "Within this option you can enter instructions on how this Voucher can be redeemed. This instruction will then be displayed on the PDF document sent to the customer after successful purchase. Limited HTML is allowed."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:714
+#@ woovoucher
+msgid "Location:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:714
+#@ woovoucher
+msgid "Enter the address of the location where the Voucher Code can be redeemed. This will be displayed on the PDF document sent to the customer. Limited HTML is allowed."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:715
+#@ woovoucher
+msgid "Location Map Link:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:715
+#@ woovoucher
+msgid "Enter a link to a Google Map for the location here. This will be displayed on the PDF document sent to the customer."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:719
+#@ woovoucher
+msgid "Locations:"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:719
+#@ woovoucher
+msgid "If the Vendor of the Voucher has more than one location where the Voucher can be redeemed, then you can add all the locations within this option."
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:734
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:811
+#@ woovoucher
+msgid "Import Voucher Codes Field"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:768
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:844
+#@ woovoucher
+msgid "Used Voucher Codes Field"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:848
+#: includes/class-woo-vou-renderer.php:880
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:917
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:944
+#@ woovoucher
+msgid "Remove"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:888
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:952
+#@ woovoucher
+msgid "Add"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:970
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:479
+#@ woovoucher
+msgid "Delete Image"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:975
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:484
+#@ woovoucher
+msgid "Upload Image"
+msgstr ""
+
+#: includes/class-woo-vou-renderer.php:1102
+#@ woovoucher
+msgid "Upload File"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:43
+#@ woovoucher
+msgid "Please enter Number of Voucher Codes."
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:44
+#@ woovoucher
+msgid "Please enter Pattern to import voucher code(s)."
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:45
+#@ woovoucher
+msgid "Please enter Valid Pattern to import voucher code(s)."
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:46
+#@ woovoucher
+msgid "Please upload csv file."
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:47
+#@ woovoucher
+msgid "File can not be empty, please upload valid file."
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:70
+#@ woovoucher
+msgid "Voucher Builder is On"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:71
+#@ woovoucher
+msgid "Voucher Builder is Off"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:72
+#@ woovoucher
+msgid "Default WordPress editor has some content, switching to the Voucher will remove it."
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:73
+#@ woovoucher
+msgid "Save"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:74
+#@ woovoucher
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:75
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:574
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:587
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:773
+#@ woovoucher
+msgid "Delete"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:76
+#@ woovoucher
+msgid "Add More"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:86
+#@ woovoucher
+msgid "Redeem Instruction"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:91
+#@ woovoucher
+msgid "Voucher Site Logo"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:96
+#@ woovoucher
+msgid "Voucher Logo"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:101
+#@ woovoucher
+msgid "Expire Date"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:102
+#@ woovoucher
+msgid "Expire :"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:106
+#@ woovoucher
+msgid "Vendor's Address"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:111
+#@ woovoucher
+msgid "Website URL"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:116
+#@ woovoucher
+msgid "Voucher Locations"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:121
+#: includes/class-woo-vou-scripts.php:122
+#@ woovoucher
+msgid "Blank Block"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:126
+#: includes/class-woo-vou-scripts.php:127
+#@ woovoucher
+msgid "Custom Block"
+msgstr ""
+
+#: includes/class-woo-vou-scripts.php:288
+#@ woovoucher
+msgid "You must have at least one file."
+msgstr ""
+
+#: includes/class-woo-vou-shortcodes.php:104
+#@ woovoucher
+msgid "[The voucher code will be inserted automatically here]"
+msgstr ""
+
+#: includes/exports/tcpdf/tcpdf.php:8194
+#: includes/exports/tcpdf/tcpdf.php:19547
+#: includes/exports/tcpdf/tcpdf.php:27984
+#@ woovoucher
+msgctxt ""
+msgid "L"
+msgstr ""
+
+#: includes/exports/tcpdf/tcpdf.php:19999
+#: includes/exports/tcpdf/tcpdf.php:20320
+#@ woovoucher
+msgctxt ""
+msgid "positionL"
+msgstr ""
+
+#: includes/exports/tcpdf/tcpdf.php:20011
+#@ woovoucher
+msgctxt ""
+msgid "align"
+msgstr ""
+
+#: includes/exports/tcpdf/tcpdf.php:20331
+#@ woovoucher
+msgctxt ""
+msgid "hpadding"
+msgstr ""
+
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:571
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:584
+#@ woovoucher
+msgid "File Name"
+msgstr ""
+
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:573
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:586
+#@ woovoucher
+msgid "Upload a File"
+msgstr ""
+
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:593
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:786
+#@ woovoucher
+msgid "Add more files"
+msgstr ""
+
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:632
+#@ woovoucher
+msgid "ColorPicker Field"
+msgstr ""
+
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:768
+#@ woovoucher
+msgid "Uploaded files"
+msgstr ""
+
+#: includes/meta-boxes/woo-vou-meta-box-functions.php:780
+#@ woovoucher
+msgid "Upload new files"
+msgstr ""
+
+#: includes/woo-vou-misc-functions.php:89
+#@ woovoucher
+msgid "Multi Color Template"
+msgstr ""
+
+#: includes/woo-vou-misc-functions.php:147
+#@ woovoucher
+msgid "Pink Template"
+msgstr ""
+
+#: includes/woo-vou-misc-functions.php:217
+#@ woovoucher
+msgid "Blue Template"
+msgstr ""
+
+#: includes/woo-vou-misc-functions.php:295
+#@ woovoucher
+msgid "Green Template"
+msgstr ""
+
+#: includes/woo-vou-misc-functions.php:382
+#@ woovoucher
+msgid "Default Template"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:154
+#: includes/woo-vou-pdf-process.php:155
+#: includes/woo-vou-used-codes-pdf.php:51
+#: includes/woo-vou-used-codes-pdf.php:52
+#@ woovoucher
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:156
+#: includes/woo-vou-used-codes-pdf.php:50
+#@ woovoucher
+msgid "WooCommerce Voucher"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:255
+#@ woovoucher
+msgid "Infiniti Mall Malad"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:255
+#@ woovoucher
+msgid "GF 9 & 10, Link Road, Mindspace, Malad West"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:255
+#@ woovoucher
+msgid "Mumbai, Maharashtra 400064"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:260
+#@ woovoucher
+msgid "Redeem instructions :"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:261
+#@ woovoucher
+msgid "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:263
+#@ woovoucher
+msgid "DELHI:"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:263
+#@ woovoucher
+msgid "Dlf Promenade Mall & Pacific Mall"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:264
+#@ woovoucher
+msgid "MUMBAI:"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:264
+#@ woovoucher
+msgid "Infiniti Mall, Malad & Phoenix MarketCity"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:265
+#@ woovoucher
+msgid "BANGALORE:"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:265
+#: includes/woo-vou-pdf-process.php:266
+#@ woovoucher
+msgid "Phoenix MarketCity Mall"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:266
+#@ woovoucher
+msgid "PUNE:"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:283
+#@ woovoucher
+msgid "-preview-"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:387
+#@ woovoucher
+msgid "No Expiration"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:527
+#@ woovoucher
+msgid "Voucher Code(s)"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:545
+#@ woovoucher
+msgid "How to redeem this Voucher"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:556
+#, php-format
+#@ woovoucher
+msgid "Valid Until: %s"
+msgstr ""
+
+#: includes/woo-vou-pdf-process.php:564
+#@ woovoucher
+msgid "Locations where you can redeem the Voucher"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:28
+#: includes/woo-vou-post-types.php:34
+#: includes/woo-vou-post-types.php:36
+#: includes/woo-vou-post-types.php:37
+#: includes/woo-vou-post-types.php:38
+#: includes/woo-vou-post-types.php:40
+#@ woovoucher
+msgid "Voucher Templates"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:29
+#: includes/woo-vou-post-types.php:31
+#: includes/woo-vou-post-types.php:32
+#: includes/woo-vou-post-types.php:33
+#: includes/woo-vou-post-types.php:35
+#@ woovoucher
+msgid "Voucher Template"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:31
+#, php-format
+#@ woovoucher
+msgid "Add New %s"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:32
+#, php-format
+#@ woovoucher
+msgid "Edit %s"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:33
+#, php-format
+#@ woovoucher
+msgid "New %s"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:34
+#, php-format
+#@ woovoucher
+msgid "%s"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:35
+#, php-format
+#@ woovoucher
+msgid "View %s"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:36
+#, php-format
+#@ woovoucher
+msgid "Search %a"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:37
+#, php-format
+#@ woovoucher
+msgid "No %s Found"
+msgstr ""
+
+#: includes/woo-vou-post-types.php:38
+#, php-format
+#@ woovoucher
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: woocommerce-pdf-vouchers.php:116
+#: woocommerce-pdf-vouchers.php:122
+#@ woovoucher
+msgid "woo-purchased-voucher-codes-{current_date}"
+msgstr ""
+

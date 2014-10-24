@@ -1,0 +1,12 @@
+menuDescription:
+	label: Description
+	type: textarea
+menuPrice:
+	label: Price
+	type: text
+featured:
+	label: Featured item
+	type: checkbox
+	default:
+		'yes':
+			label: "Yes"

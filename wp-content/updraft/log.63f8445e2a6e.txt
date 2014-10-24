@@ -1,0 +1,647 @@
+0000.003 (0) Opened log file at time: Sat, 18 Oct 2014 16:28:21 +0000 on http://hof-biergarten.de
+0000.005 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.9.26 WP: 4.0 PHP: 5.4.32 () MySQL: 5.6.17-66.0 Server: Apache safe_mode: 0 max_execution_time: 120 memory_limit: 128M (used: 67.9M | 69M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.011 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.015 (0) Requesting semaphore lock (fd)
+0000.017 (0) Set semaphore last lock (fd) time to 2014-10-18 16:28:21
+0000.018 (0) Semaphore lock (fd) complete
+0000.023 (0) Backup run: resumption=0, nonce=63f8445e2a6e, begun at=1413649701 (0s ago), job type=backup
+0000.025 (0) Scheduling a resumption (1) after 300 seconds (1413650001) in case this run gets aborted
+0000.038 (0) Checking if we have a zip executable available
+0000.041 (0) Creation of backups of directories: beginning
+0000.050 (0) Beginning creation of dump of plugins (split every: 500 Mb)
+0015.269 (0) Total entities for the zip file: 1000 directories, 5767 files (0 skipped as non-modified), 95.3 Mb
+0015.284 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0015.401 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (28.6 Mb, 5767 files batched, 66 (67) added so far); re-opening (prior size: 187.5 Kb)
+0020.316 (0) A useful amount of data was added after this amount of zip processing: 5.8 s (normalised: 5.1 s, rate: 5066.9 Kb/s)
+0020.318 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.788731098175, normalised_time=5.0524367048327, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=31130800)
+0020.396 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 100 files added (on-disk size: 14641.2 Kb)
+0020.617 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 200 files added (on-disk size: 14641.2 Kb)
+0020.925 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 300 files added (on-disk size: 14641.2 Kb)
+0021.211 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 400 files added (on-disk size: 14641.2 Kb)
+0021.486 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 500 files added (on-disk size: 14641.2 Kb)
+0021.689 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.3 Mb, 5767 files batched, 501 (568) added so far); re-opening (prior size: 14641.2 Kb)
+0022.941 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 600 files added (on-disk size: 15614.3 Kb)
+0023.115 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 700 files added (on-disk size: 15614.3 Kb)
+0023.278 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 800 files added (on-disk size: 15614.3 Kb)
+0023.435 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 900 files added (on-disk size: 15614.3 Kb)
+0023.601 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1000 files added (on-disk size: 15614.3 Kb)
+0023.730 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.7 Mb, 5767 files batched, 501 (1069) added so far); re-opening (prior size: 15614.3 Kb)
+0024.955 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1100 files added (on-disk size: 16854 Kb)
+0025.142 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1200 files added (on-disk size: 16854 Kb)
+0025.351 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1300 files added (on-disk size: 16854 Kb)
+0025.568 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1400 files added (on-disk size: 16854 Kb)
+0025.763 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1500 files added (on-disk size: 16854 Kb)
+0025.890 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.1 Mb, 5767 files batched, 501 (1570) added so far); re-opening (prior size: 16854 Kb)
+0027.176 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1600 files added (on-disk size: 18113.8 Kb)
+0027.324 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1700 files added (on-disk size: 18113.8 Kb)
+0027.499 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1800 files added (on-disk size: 18113.8 Kb)
+0027.716 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 1900 files added (on-disk size: 18113.8 Kb)
+0027.966 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2000 files added (on-disk size: 18113.8 Kb)
+0028.163 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.5 Mb, 5767 files batched, 501 (2071) added so far); re-opening (prior size: 18113.8 Kb)
+0029.995 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2100 files added (on-disk size: 21405.8 Kb)
+0030.246 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2200 files added (on-disk size: 21405.8 Kb)
+0030.477 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2300 files added (on-disk size: 21405.8 Kb)
+0030.703 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2400 files added (on-disk size: 21405.8 Kb)
+0030.971 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2500 files added (on-disk size: 21405.8 Kb)
+0031.127 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.8 Mb, 5767 files batched, 501 (2572) added so far); re-opening (prior size: 21405.8 Kb)
+0032.524 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2600 files added (on-disk size: 23810.8 Kb)
+0032.721 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2700 files added (on-disk size: 23810.8 Kb)
+0032.879 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2800 files added (on-disk size: 23810.8 Kb)
+0033.044 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 2900 files added (on-disk size: 23810.8 Kb)
+0033.199 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3000 files added (on-disk size: 23810.8 Kb)
+0033.340 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 Mb, 5767 files batched, 501 (3073) added so far); re-opening (prior size: 23810.8 Kb)
+0035.049 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3100 files added (on-disk size: 26767.7 Kb)
+0035.243 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3200 files added (on-disk size: 26767.7 Kb)
+0035.436 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3300 files added (on-disk size: 26767.7 Kb)
+0035.630 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3400 files added (on-disk size: 26767.7 Kb)
+0035.815 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3500 files added (on-disk size: 26767.7 Kb)
+0035.954 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.9 Mb, 5767 files batched, 501 (3574) added so far); re-opening (prior size: 26767.7 Kb)
+0038.072 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3600 files added (on-disk size: 32902.6 Kb)
+0038.266 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3700 files added (on-disk size: 32902.6 Kb)
+0038.500 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3800 files added (on-disk size: 32902.6 Kb)
+0038.739 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 3900 files added (on-disk size: 32902.6 Kb)
+0038.889 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4000 files added (on-disk size: 32902.6 Kb)
+0039.019 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.4 Mb, 5767 files batched, 501 (4075) added so far); re-opening (prior size: 32902.6 Kb)
+0041.088 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4100 files added (on-disk size: 36149.9 Kb)
+0041.287 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4200 files added (on-disk size: 36149.9 Kb)
+0041.472 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4300 files added (on-disk size: 36149.9 Kb)
+0041.614 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4400 files added (on-disk size: 36149.9 Kb)
+0041.761 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4500 files added (on-disk size: 36149.9 Kb)
+0041.879 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.1 Mb, 5767 files batched, 501 (4576) added so far); re-opening (prior size: 36149.9 Kb)
+0043.638 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4600 files added (on-disk size: 37822 Kb)
+0043.775 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4700 files added (on-disk size: 37822 Kb)
+0043.916 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4800 files added (on-disk size: 37822 Kb)
+0044.063 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 4900 files added (on-disk size: 37822 Kb)
+0044.207 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5000 files added (on-disk size: 37822 Kb)
+0044.335 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.7 Mb, 5767 files batched, 501 (5077) added so far); re-opening (prior size: 37822 Kb)
+0046.739 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5100 files added (on-disk size: 41688.7 Kb)
+0046.953 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5200 files added (on-disk size: 41688.7 Kb)
+0047.120 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5300 files added (on-disk size: 41688.7 Kb)
+0047.294 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5400 files added (on-disk size: 41688.7 Kb)
+0047.527 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5500 files added (on-disk size: 41688.7 Kb)
+0047.649 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.4 Mb, 5767 files batched, 501 (5578) added so far); re-opening (prior size: 41688.7 Kb)
+0049.146 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5600 files added (on-disk size: 43544.7 Kb)
+0049.314 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip.tmp: 5700 files added (on-disk size: 43544.7 Kb)
+0051.004 (0) Created plugins zip (0) - 45036.4 Kb in 50.9 s (884 Kb/s) (SHA1 checksum: 44e2ec63002967c659b079443b8eb20a17bc3290)
+0051.010 (0) Beginning creation of dump of themes (split every: 500 Mb)
+0052.459 (0) Total entities for the zip file: 84 directories, 599 files (0 skipped as non-modified), 7.6 Mb
+0052.626 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0052.801 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0052.949 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0053.087 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0053.233 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0053.236 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.1 Mb, 599 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0054.796 (0) Created themes zip (0) - 5496.8 Kb in 3.8 s (1458.4 Kb/s) (SHA1 checksum: 48d9619308a6711916a27d7056518bab090b775d)
+0054.801 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0054.803 (0) Looking for candidates to back up in: /webspace/04/85842/hof-biergarten.de/wp-content/uploads
+0054.805 (0) finding files: woocommerce_uploads: adding to list (1)
+0054.806 (0) finding files: 2011: adding to list (2)
+0054.807 (0) finding files: 2012: adding to list (3)
+0054.809 (0) finding files: 2014: adding to list (4)
+0054.810 (0) finding files: wysija: adding to list (5)
+0054.811 (0) finding files: kreuz.png: adding to list (6)
+0054.812 (0) finding files: gpx: adding to list (7)
+0054.814 (0) finding files: kreuz2.png: adding to list (8)
+0054.815 (0) Beginning creation of dump of uploads (split every: 500 Mb)
+0055.919 (0) Total entities for the zip file: 55 directories, 637 files (0 skipped as non-modified), 60.7 Mb
+0056.044 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0056.108 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 29.7 Mb added on this batch (29.8 Mb, 637 files batched, 155 (155) added so far); re-opening (prior size: 0 Kb)
+0058.453 (0) A useful amount of data was added after this amount of zip processing: 3.9 s (normalised: 3.9 s, rate: 7765.6 Kb/s)
+0058.458 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.9262139797211, normalised_time=3.9148444970551, max_time=-1, data points known=0, old_max_bytes=31130800, new_max_bytes=47711933)
+0058.522 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip.tmp: 200 files added (on-disk size: 29955.9 Kb)
+0058.667 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip.tmp: 300 files added (on-disk size: 29955.9 Kb)
+0058.822 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip.tmp: 400 files added (on-disk size: 29955.9 Kb)
+0058.989 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip.tmp: 500 files added (on-disk size: 29955.9 Kb)
+0059.160 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip.tmp: 600 files added (on-disk size: 29955.9 Kb)
+0063.948 (0) Created uploads zip (0) - 53297 Kb in 9.1 s (5843.2 Kb/s) (SHA1 checksum: 6daebca0f3cab02caf6922caad4d0ed13a6f5eaf)
+0063.954 (0) Beginning backup of other directories found in the content directory (index: 0)
+0063.956 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0063.958 (0) Looking for candidates to back up in: /webspace/04/85842/hof-biergarten.de/wp-content
+0063.961 (0) finding files: .DS_Store: adding to list (1)
+0063.962 (0) finding files: index.php: adding to list (2)
+0063.963 (0) finding files: ai1ec_static: adding to list (3)
+0063.965 (0) finding files: languages: adding to list (4)
+0063.966 (0) finding files: ngg_styles: adding to list (5)
+0063.967 (0) finding files: themes: skipping: this is the themes directory
+0063.968 (0) finding files: upgrade: skipping: excluded by options
+0063.970 (0) finding files: cjt-content: adding to list (6)
+0063.971 (0) finding files: gallery: adding to list (7)
+0063.972 (0) finding files: logs: adding to list (8)
+0063.974 (0) finding files: uploads: skipping: this is the uploads directory
+0063.975 (0) finding files: extensions: adding to list (9)
+0063.977 (0) finding files: updraft: skipping: this is the updraft directory
+0063.978 (0) finding files: advanced-cache.php: adding to list (10)
+0063.980 (0) finding files: wp-cache-config.php: adding to list (11)
+0063.981 (0) finding files: cache: skipping: excluded by options
+0063.983 (0) finding files: plugins: skipping: this is the plugins directory
+0064.243 (0) Total entities for the zip file: 25 directories, 167 files (0 skipped as non-modified), 15.2 Mb
+0064.356 (0) Zip: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-others.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0066.125 (0) Created others zip (0) - 13959.6 Kb in 2.1 s (6557.6 Kb/s) (SHA1 checksum: c29fee7bb98c6e0f1666adfaa055596ca4058873)
+0066.132 (0) Saving backup status to database (elements: 8)
+0066.136 (0) Beginning creation of database dump (WordPress DB)
+0066.154 (0) Table wp_options: Total expected rows (approximate): 819
+0066.193 (0) Table wp_options: Total rows added: 818 in 0.04 seconds
+0066.199 (0) Table wp_options: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_options.table.gz - 116.7 Kb)
+0066.208 (0) Table wp_users: Total expected rows (approximate): 4
+0066.211 (0) Table wp_users: Total rows added: 4 in 0.00 seconds
+0066.214 (0) Table wp_users: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_users.table.gz - 0.7 Kb)
+0066.222 (0) Table wp_usermeta: Total expected rows (approximate): 155
+0066.227 (0) Table wp_usermeta: Total rows added: 155 in 0.00 seconds
+0066.229 (0) Table wp_usermeta: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_usermeta.table.gz - 3.2 Kb)
+0066.251 (0) Table wp_commentmeta: Total expected rows (approximate): 33
+0066.260 (0) Table wp_commentmeta: Total rows added: 33 in 0.01 seconds
+0066.263 (0) Table wp_commentmeta: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_commentmeta.table.gz - 0.6 Kb)
+0066.271 (0) Table wp_comments: Total expected rows (approximate): 38
+0066.276 (0) Table wp_comments: Total rows added: 38 in 0.00 seconds
+0066.279 (0) Table wp_comments: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_comments.table.gz - 3.3 Kb)
+0066.299 (0) Table wp_links: Total expected rows (approximate): 0
+0066.301 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0066.304 (0) Table wp_links: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_links.table.gz - 0.4 Kb)
+0066.312 (0) Table wp_postmeta: Total expected rows (approximate): 3865
+0066.376 (0) Table wp_postmeta: Total rows added: 3865 in 0.06 seconds
+0066.380 (0) Table wp_postmeta: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_postmeta.table.gz - 51.1 Kb)
+0066.388 (0) Table wp_posts: Total expected rows (approximate): 912
+0066.483 (0) Table wp_posts: Total rows added: 912 in 0.09 seconds
+0066.489 (0) Table wp_posts: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_posts.table.gz - 111.4 Kb)
+0066.497 (0) Table wp_term_relationships: Total expected rows (approximate): 126
+0066.501 (0) Table wp_term_relationships: Total rows added: 126 in 0.00 seconds
+0066.503 (0) Table wp_term_relationships: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_term_relationships.table.gz - 0.7 Kb)
+0066.511 (0) Table wp_term_taxonomy: Total expected rows (approximate): 111
+0066.515 (0) Table wp_term_taxonomy: Total rows added: 111 in 0.00 seconds
+0066.517 (0) Table wp_term_taxonomy: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_term_taxonomy.table.gz - 1.2 Kb)
+0066.525 (0) Table wp_terms: Total expected rows (approximate): 109
+0066.529 (0) Table wp_terms: Total rows added: 109 in 0.00 seconds
+0066.532 (0) Table wp_terms: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_terms.table.gz - 1.7 Kb)
+0066.539 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (approximate): 147
+0066.544 (0) Table wp_woocommerce_order_itemmeta: Total rows added: 147 in 0.00 seconds
+0066.547 (0) Table wp_woocommerce_order_itemmeta: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_order_itemmeta.table.gz - 1.5 Kb)
+0066.572 (0) Table wp_woocommerce_termmeta: Total expected rows (approximate): 8
+0066.579 (0) Table wp_woocommerce_termmeta: Total rows added: 8 in 0.01 seconds
+0066.582 (0) Table wp_woocommerce_termmeta: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_termmeta.table.gz - 0.4 Kb)
+0066.586 (0) Skipping table (lacks our prefix (wp_)): ahm_files
+0066.601 (0) Table wp_ahm_download_stats: Total expected rows (approximate): 1
+0066.605 (0) Table wp_ahm_download_stats: Total rows added: 1 in 0.00 seconds
+0066.608 (0) Table wp_ahm_download_stats: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ahm_download_stats.table.gz - 0.4 Kb)
+0066.626 (0) Table wp_ai1ec_event_category_meta: Total expected rows (approximate): 1
+0066.635 (0) Table wp_ai1ec_event_category_meta: Total rows added: 1 in 0.01 seconds
+0066.638 (0) Table wp_ai1ec_event_category_meta: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_event_category_meta.table.gz - 0.3 Kb)
+0066.646 (0) Table wp_ai1ec_event_feeds: Total expected rows (approximate): 0
+0066.649 (0) Table wp_ai1ec_event_feeds: Total rows added: 0 in 0.00 seconds
+0066.651 (0) Table wp_ai1ec_event_feeds: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_event_feeds.table.gz - 0.4 Kb)
+0066.659 (0) Table wp_ai1ec_event_instances: Total expected rows (approximate): 3
+0066.661 (0) Table wp_ai1ec_event_instances: Total rows added: 3 in 0.00 seconds
+0066.664 (0) Table wp_ai1ec_event_instances: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_event_instances.table.gz - 0.4 Kb)
+0066.671 (0) Table wp_ai1ec_events: Total expected rows (approximate): 3
+0066.674 (0) Table wp_ai1ec_events: Total rows added: 3 in 0.00 seconds
+0066.677 (0) Table wp_ai1ec_events: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_events.table.gz - 0.8 Kb)
+0066.684 (0) Table wp_ait_item_categorymeta: Total expected rows (approximate): 0
+0066.686 (0) Table wp_ait_item_categorymeta: Total rows added: 0 in 0.00 seconds
+0066.689 (0) Table wp_ait_item_categorymeta: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ait_item_categorymeta.table.gz - 0.3 Kb)
+0066.711 (0) Table wp_bwwc_btc_addresses: Total expected rows (approximate): 1
+0066.719 (0) Table wp_bwwc_btc_addresses: Total rows added: 1 in 0.01 seconds
+0066.721 (0) Table wp_bwwc_btc_addresses: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_bwwc_btc_addresses.table.gz - 0.7 Kb)
+0066.738 (0) Table wp_cjtoolbox_authors: Total expected rows (approximate): 1
+0066.744 (0) Table wp_cjtoolbox_authors: Total rows added: 1 in 0.00 seconds
+0066.746 (0) Table wp_cjtoolbox_authors: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_authors.table.gz - 0.4 Kb)
+0066.767 (0) Table wp_cjtoolbox_backups: Total expected rows (approximate): 0
+0066.769 (0) Table wp_cjtoolbox_backups: Total rows added: 0 in 0.00 seconds
+0066.772 (0) Table wp_cjtoolbox_backups: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_backups.table.gz - 0.3 Kb)
+0066.789 (0) Table wp_cjtoolbox_block_files: Total expected rows (approximate): 1
+0066.795 (0) Table wp_cjtoolbox_block_files: Total rows added: 1 in 0.00 seconds
+0066.797 (0) Table wp_cjtoolbox_block_files: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_block_files.table.gz - 0.4 Kb)
+0066.815 (0) Table wp_cjtoolbox_block_pins: Total expected rows (approximate): 0
+0066.817 (0) Table wp_cjtoolbox_block_pins: Total rows added: 0 in 0.00 seconds
+0066.820 (0) Table wp_cjtoolbox_block_pins: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_block_pins.table.gz - 0.3 Kb)
+0066.838 (0) Table wp_cjtoolbox_block_templates: Total expected rows (approximate): 0
+0066.840 (0) Table wp_cjtoolbox_block_templates: Total rows added: 0 in 0.00 seconds
+0066.842 (0) Table wp_cjtoolbox_block_templates: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_block_templates.table.gz - 0.3 Kb)
+0066.858 (0) Table wp_cjtoolbox_blocks: Total expected rows (approximate): 1
+0066.865 (0) Table wp_cjtoolbox_blocks: Total rows added: 1 in 0.01 seconds
+0066.868 (0) Table wp_cjtoolbox_blocks: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_blocks.table.gz - 0.6 Kb)
+0066.883 (0) Table wp_cjtoolbox_form_group_parameters: Total expected rows (approximate): 0
+0066.885 (0) Table wp_cjtoolbox_form_group_parameters: Total rows added: 0 in 0.00 seconds
+0066.888 (0) Table wp_cjtoolbox_form_group_parameters: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_form_group_parameters.table.gz - 0.4 Kb)
+0066.908 (0) Table wp_cjtoolbox_form_group_xfields: Total expected rows (approximate): 0
+0066.910 (0) Table wp_cjtoolbox_form_group_xfields: Total rows added: 0 in 0.00 seconds
+0066.913 (0) Table wp_cjtoolbox_form_group_xfields: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_form_group_xfields.table.gz - 0.3 Kb)
+0066.930 (0) Table wp_cjtoolbox_form_groups: Total expected rows (approximate): 0
+0066.933 (0) Table wp_cjtoolbox_form_groups: Total rows added: 0 in 0.00 seconds
+0066.935 (0) Table wp_cjtoolbox_form_groups: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_form_groups.table.gz - 0.4 Kb)
+0066.951 (0) Table wp_cjtoolbox_forms: Total expected rows (approximate): 0
+0066.953 (0) Table wp_cjtoolbox_forms: Total rows added: 0 in 0.00 seconds
+0066.956 (0) Table wp_cjtoolbox_forms: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_forms.table.gz - 0.3 Kb)
+0066.978 (0) Table wp_cjtoolbox_package_objects: Total expected rows (approximate): 0
+0066.981 (0) Table wp_cjtoolbox_package_objects: Total rows added: 0 in 0.00 seconds
+0066.983 (0) Table wp_cjtoolbox_package_objects: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_package_objects.table.gz - 0.3 Kb)
+0066.994 (0) Table wp_cjtoolbox_packages: Total expected rows (approximate): 0
+0066.997 (0) Table wp_cjtoolbox_packages: Total rows added: 0 in 0.00 seconds
+0066.999 (0) Table wp_cjtoolbox_packages: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_packages.table.gz - 0.3 Kb)
+0067.015 (0) Table wp_cjtoolbox_parameter_typedef: Total expected rows (approximate): 0
+0067.017 (0) Table wp_cjtoolbox_parameter_typedef: Total rows added: 0 in 0.00 seconds
+0067.020 (0) Table wp_cjtoolbox_parameter_typedef: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_parameter_typedef.table.gz - 0.3 Kb)
+0067.038 (0) Table wp_cjtoolbox_parameter_typeparams: Total expected rows (approximate): 0
+0067.040 (0) Table wp_cjtoolbox_parameter_typeparams: Total rows added: 0 in 0.00 seconds
+0067.043 (0) Table wp_cjtoolbox_parameter_typeparams: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_parameter_typeparams.table.gz - 0.3 Kb)
+0067.056 (0) Table wp_cjtoolbox_parameters: Total expected rows (approximate): 0
+0067.058 (0) Table wp_cjtoolbox_parameters: Total rows added: 0 in 0.00 seconds
+0067.061 (0) Table wp_cjtoolbox_parameters: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_parameters.table.gz - 0.4 Kb)
+0067.075 (0) Table wp_cjtoolbox_template_revisions: Total expected rows (approximate): 208
+0067.088 (0) Table wp_cjtoolbox_template_revisions: Total rows added: 208 in 0.01 seconds
+0067.091 (0) Table wp_cjtoolbox_template_revisions: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_template_revisions.table.gz - 3.8 Kb)
+0067.112 (0) Table wp_cjtoolbox_templates: Total expected rows (approximate): 208
+0067.129 (0) Table wp_cjtoolbox_templates: Total rows added: 208 in 0.02 seconds
+0067.132 (0) Table wp_cjtoolbox_templates: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_templates.table.gz - 3.4 Kb)
+0067.151 (0) Table wp_gcl_certificates: Total expected rows (approximate): 6
+0067.159 (0) Table wp_gcl_certificates: Total rows added: 6 in 0.01 seconds
+0067.162 (0) Table wp_gcl_certificates: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_gcl_certificates.table.gz - 0.6 Kb)
+0067.184 (0) Table wp_gcl_transactions: Total expected rows (approximate): 0
+0067.187 (0) Table wp_gcl_transactions: Total rows added: 0 in 0.00 seconds
+0067.190 (0) Table wp_gcl_transactions: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_gcl_transactions.table.gz - 0.4 Kb)
+0067.206 (0) Table wp_ngg_album: Total expected rows (approximate): 0
+0067.213 (0) Table wp_ngg_album: Total rows added: 0 in 0.00 seconds
+0067.215 (0) Table wp_ngg_album: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ngg_album.table.gz - 0.4 Kb)
+0067.226 (0) Table wp_ngg_gallery: Total expected rows (approximate): 6
+0067.229 (0) Table wp_ngg_gallery: Total rows added: 6 in 0.00 seconds
+0067.231 (0) Table wp_ngg_gallery: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ngg_gallery.table.gz - 0.6 Kb)
+0067.242 (0) Table wp_ngg_pictures: Total expected rows (approximate): 128
+0067.253 (0) Table wp_ngg_pictures: Total rows added: 128 in 0.01 seconds
+0067.256 (0) Table wp_ngg_pictures: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ngg_pictures.table.gz - 9.6 Kb)
+0067.278 (0) Table wp_sdm_downloads: Total expected rows (approximate): 1
+0067.282 (0) Table wp_sdm_downloads: Total rows added: 1 in 0.00 seconds
+0067.285 (0) Table wp_sdm_downloads: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_sdm_downloads.table.gz - 0.5 Kb)
+0067.306 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (approximate): 1
+0067.316 (0) Table wp_woocommerce_attribute_taxonomies: Total rows added: 1 in 0.01 seconds
+0067.318 (0) Table wp_woocommerce_attribute_taxonomies: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_attribute_taxonomies.table.gz - 0.4 Kb)
+0067.336 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (approximate): 6
+0067.343 (0) Table wp_woocommerce_downloadable_product_permissions: Total rows added: 6 in 0.01 seconds
+0067.346 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_downloadable_product_permissions.table.gz - 0.7 Kb)
+0067.354 (0) Table wp_woocommerce_order_items: Total expected rows (approximate): 25
+0067.360 (0) Table wp_woocommerce_order_items: Total rows added: 25 in 0.00 seconds
+0067.363 (0) Table wp_woocommerce_order_items: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_order_items.table.gz - 0.6 Kb)
+0067.384 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (approximate): 0
+0067.389 (0) Table wp_woocommerce_tax_rate_locations: Total rows added: 0 in 0.00 seconds
+0067.392 (0) Table wp_woocommerce_tax_rate_locations: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_tax_rate_locations.table.gz - 0.3 Kb)
+0067.406 (0) Table wp_woocommerce_tax_rates: Total expected rows (approximate): 2
+0067.412 (0) Table wp_woocommerce_tax_rates: Total rows added: 2 in 0.00 seconds
+0067.415 (0) Table wp_woocommerce_tax_rates: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_tax_rates.table.gz - 0.5 Kb)
+0067.434 (0) Table wp_wysija_campaign: Total expected rows (approximate): 1
+0067.441 (0) Table wp_wysija_campaign: Total rows added: 1 in 0.01 seconds
+0067.443 (0) Table wp_wysija_campaign: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_campaign.table.gz - 0.4 Kb)
+0067.462 (0) Table wp_wysija_campaign_list: Total expected rows (approximate): 1
+0067.467 (0) Table wp_wysija_campaign_list: Total rows added: 1 in 0.00 seconds
+0067.470 (0) Table wp_wysija_campaign_list: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_campaign_list.table.gz - 0.3 Kb)
+0067.495 (0) Table wp_wysija_custom_field: Total expected rows (approximate): 0
+0067.498 (0) Table wp_wysija_custom_field: Total rows added: 0 in 0.00 seconds
+0067.500 (0) Table wp_wysija_custom_field: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_custom_field.table.gz - 0.3 Kb)
+0067.508 (0) Table wp_wysija_email: Total expected rows (approximate): 2
+0067.512 (0) Table wp_wysija_email: Total rows added: 2 in 0.00 seconds
+0067.515 (0) Table wp_wysija_email: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_email.table.gz - 6.8 Kb)
+0067.532 (0) Table wp_wysija_email_user_stat: Total expected rows (approximate): 0
+0067.535 (0) Table wp_wysija_email_user_stat: Total rows added: 0 in 0.00 seconds
+0067.538 (0) Table wp_wysija_email_user_stat: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_email_user_stat.table.gz - 0.3 Kb)
+0067.555 (0) Table wp_wysija_email_user_url: Total expected rows (approximate): 0
+0067.558 (0) Table wp_wysija_email_user_url: Total rows added: 0 in 0.00 seconds
+0067.568 (0) Table wp_wysija_email_user_url: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_email_user_url.table.gz - 0.3 Kb)
+0067.585 (0) Table wp_wysija_form: Total expected rows (approximate): 1
+0067.591 (0) Table wp_wysija_form: Total rows added: 1 in 0.01 seconds
+0067.594 (0) Table wp_wysija_form: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_form.table.gz - 1 Kb)
+0067.614 (0) Table wp_wysija_list: Total expected rows (approximate): 2
+0067.624 (0) Table wp_wysija_list: Total rows added: 2 in 0.01 seconds
+0067.626 (0) Table wp_wysija_list: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_list.table.gz - 0.6 Kb)
+0067.635 (0) Table wp_wysija_queue: Total expected rows (approximate): 0
+0067.637 (0) Table wp_wysija_queue: Total rows added: 0 in 0.00 seconds
+0067.640 (0) Table wp_wysija_queue: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_queue.table.gz - 0.3 Kb)
+0067.652 (0) Table wp_wysija_url: Total expected rows (approximate): 0
+0067.655 (0) Table wp_wysija_url: Total rows added: 0 in 0.00 seconds
+0067.657 (0) Table wp_wysija_url: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_url.table.gz - 0.3 Kb)
+0067.673 (0) Table wp_wysija_url_mail: Total expected rows (approximate): 0
+0067.676 (0) Table wp_wysija_url_mail: Total rows added: 0 in 0.00 seconds
+0067.678 (0) Table wp_wysija_url_mail: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_url_mail.table.gz - 0.3 Kb)
+0067.686 (0) Table wp_wysija_user: Total expected rows (approximate): 85
+0067.693 (0) Table wp_wysija_user: Total rows added: 85 in 0.00 seconds
+0067.695 (0) Table wp_wysija_user: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user.table.gz - 2.6 Kb)
+0067.716 (0) Table wp_wysija_user_field: Total expected rows (approximate): 2
+0067.722 (0) Table wp_wysija_user_field: Total rows added: 2 in 0.00 seconds
+0067.725 (0) Table wp_wysija_user_field: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user_field.table.gz - 0.4 Kb)
+0067.746 (0) Table wp_wysija_user_history: Total expected rows (approximate): 0
+0067.749 (0) Table wp_wysija_user_history: Total rows added: 0 in 0.00 seconds
+0067.751 (0) Table wp_wysija_user_history: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user_history.table.gz - 0.3 Kb)
+0067.772 (0) Table wp_wysija_user_list: Total expected rows (approximate): 89
+0067.781 (0) Table wp_wysija_user_list: Total rows added: 89 in 0.01 seconds
+0067.785 (0) Table wp_wysija_user_list: finishing file (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user_list.table.gz - 0.6 Kb)
+0067.793 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_options.table.gz (1/64): adding to final database dump
+0067.816 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_users.table.gz (2/64): adding to final database dump
+0067.818 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_usermeta.table.gz (3/64): adding to final database dump
+0067.821 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_commentmeta.table.gz (4/64): adding to final database dump
+0067.823 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_comments.table.gz (5/64): adding to final database dump
+0067.825 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_links.table.gz (6/64): adding to final database dump
+0067.827 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_postmeta.table.gz (7/64): adding to final database dump
+0067.844 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_posts.table.gz (8/64): adding to final database dump
+0067.871 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_term_relationships.table.gz (9/64): adding to final database dump
+0067.874 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_term_taxonomy.table.gz (10/64): adding to final database dump
+0067.876 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_terms.table.gz (11/64): adding to final database dump
+0067.878 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_order_itemmeta.table.gz (12/64): adding to final database dump
+0067.881 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_termmeta.table.gz (13/64): adding to final database dump
+0067.883 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ahm_download_stats.table.gz (14/64): adding to final database dump
+0067.885 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_event_category_meta.table.gz (15/64): adding to final database dump
+0067.887 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_event_feeds.table.gz (16/64): adding to final database dump
+0067.889 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_event_instances.table.gz (17/64): adding to final database dump
+0067.891 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ai1ec_events.table.gz (18/64): adding to final database dump
+0067.893 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ait_item_categorymeta.table.gz (19/64): adding to final database dump
+0067.895 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_bwwc_btc_addresses.table.gz (20/64): adding to final database dump
+0067.897 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_authors.table.gz (21/64): adding to final database dump
+0067.899 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_backups.table.gz (22/64): adding to final database dump
+0067.900 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_block_files.table.gz (23/64): adding to final database dump
+0067.902 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_block_pins.table.gz (24/64): adding to final database dump
+0067.904 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_block_templates.table.gz (25/64): adding to final database dump
+0067.906 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_blocks.table.gz (26/64): adding to final database dump
+0067.908 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_form_group_parameters.table.gz (27/64): adding to final database dump
+0067.910 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_form_group_xfields.table.gz (28/64): adding to final database dump
+0067.912 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_form_groups.table.gz (29/64): adding to final database dump
+0067.914 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_forms.table.gz (30/64): adding to final database dump
+0067.916 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_package_objects.table.gz (31/64): adding to final database dump
+0067.918 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_packages.table.gz (32/64): adding to final database dump
+0067.920 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_parameter_typedef.table.gz (33/64): adding to final database dump
+0067.922 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_parameter_typeparams.table.gz (34/64): adding to final database dump
+0067.924 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_parameters.table.gz (35/64): adding to final database dump
+0067.926 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_template_revisions.table.gz (36/64): adding to final database dump
+0067.929 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_cjtoolbox_templates.table.gz (37/64): adding to final database dump
+0067.932 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_gcl_certificates.table.gz (38/64): adding to final database dump
+0067.934 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_gcl_transactions.table.gz (39/64): adding to final database dump
+0067.936 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ngg_album.table.gz (40/64): adding to final database dump
+0067.938 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ngg_gallery.table.gz (41/64): adding to final database dump
+0067.940 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_ngg_pictures.table.gz (42/64): adding to final database dump
+0067.944 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_sdm_downloads.table.gz (43/64): adding to final database dump
+0067.946 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_attribute_taxonomies.table.gz (44/64): adding to final database dump
+0067.948 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (45/64): adding to final database dump
+0067.950 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_order_items.table.gz (46/64): adding to final database dump
+0067.952 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_tax_rate_locations.table.gz (47/64): adding to final database dump
+0067.954 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_woocommerce_tax_rates.table.gz (48/64): adding to final database dump
+0067.956 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_campaign.table.gz (49/64): adding to final database dump
+0067.958 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_campaign_list.table.gz (50/64): adding to final database dump
+0067.960 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_custom_field.table.gz (51/64): adding to final database dump
+0067.962 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_email.table.gz (52/64): adding to final database dump
+0067.965 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_email_user_stat.table.gz (53/64): adding to final database dump
+0067.967 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_email_user_url.table.gz (54/64): adding to final database dump
+0067.969 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_form.table.gz (55/64): adding to final database dump
+0067.971 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_list.table.gz (56/64): adding to final database dump
+0067.973 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_queue.table.gz (57/64): adding to final database dump
+0067.975 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_url.table.gz (58/64): adding to final database dump
+0067.976 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_url_mail.table.gz (59/64): adding to final database dump
+0067.978 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user.table.gz (60/64): adding to final database dump
+0067.981 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user_field.table.gz (61/64): adding to final database dump
+0067.983 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user_history.table.gz (62/64): adding to final database dump
+0067.985 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db-table-wp_wysija_user_list.table.gz (63/64): adding to final database dump
+0067.990 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz: finished writing out complete database file (304 Kb)
+0068.041 (0) Total database tables backed up: 63 (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz, size: 330547, checksum (SHA1): 78da5ed10fce3e8bed351c719924826c313e0a51)
+0068.044 (0) Saving backup history
+0068.051 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0068.052 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0068.054 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0068.055 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-others.zip: others: This file has not yet been successfully uploaded: will queue
+0068.057 (0) backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz: db: This file has not yet been successfully uploaded: will queue
+0068.060 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0068.064 (0) Cloud backup selection: dropbox
+0068.066 (0) Beginning dispatch of backup to remote (dropbox)
+0068.067 (0) Dropbox: begin cloud upload
+0068.078 (0) Dropbox: access gained
+0069.188 (0) Dropbox quota usage: normal=681.2 Mb, shared=0 Mb, total=3968 Mb, available=3286.8 Mb
+0069.190 (0) Dropbox: Attempt to upload: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip to: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip
+0072.118 (0) Dropbox chunked upload: 2.3 % uploaded (acBufNtIr1RersURlQHAxw, 1048576)
+0074.890 (0) Dropbox chunked upload: 4.5 % uploaded (acBufNtIr1RersURlQHAxw, 2097152)
+0077.870 (0) Dropbox chunked upload: 6.8 % uploaded (acBufNtIr1RersURlQHAxw, 3145728)
+0082.129 (0) Dropbox chunked upload: 9.1 % uploaded (acBufNtIr1RersURlQHAxw, 4194304)
+0084.609 (0) Dropbox chunked upload: 11.4 % uploaded (acBufNtIr1RersURlQHAxw, 5242880)
+0087.378 (0) Dropbox chunked upload: 13.6 % uploaded (acBufNtIr1RersURlQHAxw, 6291456)
+0090.229 (0) Dropbox chunked upload: 15.9 % uploaded (acBufNtIr1RersURlQHAxw, 7340032)
+0094.611 (0) Dropbox chunked upload: 18.2 % uploaded (acBufNtIr1RersURlQHAxw, 8388608)
+0097.069 (0) Dropbox chunked upload: 20.5 % uploaded (acBufNtIr1RersURlQHAxw, 9437184)
+0099.976 (0) Dropbox chunked upload: 22.7 % uploaded (acBufNtIr1RersURlQHAxw, 10485760)
+0102.774 (0) Dropbox chunked upload: 25 % uploaded (acBufNtIr1RersURlQHAxw, 11534336)
+0106.328 (0) Dropbox chunked upload: 27.3 % uploaded (acBufNtIr1RersURlQHAxw, 12582912)
+0108.771 (0) Dropbox chunked upload: 29.6 % uploaded (acBufNtIr1RersURlQHAxw, 13631488)
+0111.591 (0) Dropbox chunked upload: 31.8 % uploaded (acBufNtIr1RersURlQHAxw, 14680064)
+0114.325 (0) Dropbox chunked upload: 34.1 % uploaded (acBufNtIr1RersURlQHAxw, 15728640)
+0117.611 (0) Dropbox chunked upload: 36.4 % uploaded (acBufNtIr1RersURlQHAxw, 16777216)
+0120.147 (0) Dropbox chunked upload: 38.7 % uploaded (acBufNtIr1RersURlQHAxw, 17825792)
+0122.897 (0) Dropbox chunked upload: 40.9 % uploaded (acBufNtIr1RersURlQHAxw, 18874368)
+0125.907 (0) Dropbox chunked upload: 43.2 % uploaded (acBufNtIr1RersURlQHAxw, 19922944)
+0129.232 (0) Dropbox chunked upload: 45.5 % uploaded (acBufNtIr1RersURlQHAxw, 20971520)
+0132.093 (0) Dropbox chunked upload: 47.7 % uploaded (acBufNtIr1RersURlQHAxw, 22020096)
+0135.383 (0) Dropbox chunked upload: 50 % uploaded (acBufNtIr1RersURlQHAxw, 23068672)
+0138.549 (0) Dropbox chunked upload: 52.3 % uploaded (acBufNtIr1RersURlQHAxw, 24117248)
+0141.865 (0) Dropbox chunked upload: 54.6 % uploaded (acBufNtIr1RersURlQHAxw, 25165824)
+0144.248 (0) Dropbox chunked upload: 56.8 % uploaded (acBufNtIr1RersURlQHAxw, 26214400)
+0147.043 (0) Dropbox chunked upload: 59.1 % uploaded (acBufNtIr1RersURlQHAxw, 27262976)
+0150.082 (0) Dropbox chunked upload: 61.4 % uploaded (acBufNtIr1RersURlQHAxw, 28311552)
+0152.882 (0) Dropbox chunked upload: 63.7 % uploaded (acBufNtIr1RersURlQHAxw, 29360128)
+0155.119 (0) Dropbox chunked upload: 65.9 % uploaded (acBufNtIr1RersURlQHAxw, 30408704)
+0157.498 (0) Dropbox chunked upload: 68.2 % uploaded (acBufNtIr1RersURlQHAxw, 31457280)
+0160.649 (0) Dropbox chunked upload: 70.5 % uploaded (acBufNtIr1RersURlQHAxw, 32505856)
+0163.877 (0) Dropbox chunked upload: 72.8 % uploaded (acBufNtIr1RersURlQHAxw, 33554432)
+0166.677 (0) Dropbox chunked upload: 75 % uploaded (acBufNtIr1RersURlQHAxw, 34603008)
+0169.564 (0) Dropbox chunked upload: 77.3 % uploaded (acBufNtIr1RersURlQHAxw, 35651584)
+0172.366 (0) Dropbox chunked upload: 79.6 % uploaded (acBufNtIr1RersURlQHAxw, 36700160)
+0175.860 (0) Dropbox chunked upload: 81.9 % uploaded (acBufNtIr1RersURlQHAxw, 37748736)
+0178.339 (0) Dropbox chunked upload: 84.1 % uploaded (acBufNtIr1RersURlQHAxw, 38797312)
+0181.995 (0) Dropbox chunked upload: 86.4 % uploaded (acBufNtIr1RersURlQHAxw, 39845888)
+0184.877 (0) Dropbox chunked upload: 88.7 % uploaded (acBufNtIr1RersURlQHAxw, 40894464)
+0188.352 (0) Dropbox chunked upload: 90.9 % uploaded (acBufNtIr1RersURlQHAxw, 41943040)
+0190.670 (0) Dropbox chunked upload: 93.2 % uploaded (acBufNtIr1RersURlQHAxw, 42991616)
+0193.821 (0) Dropbox chunked upload: 95.5 % uploaded (acBufNtIr1RersURlQHAxw, 44040192)
+0197.113 (0) Dropbox chunked upload: 97.8 % uploaded (acBufNtIr1RersURlQHAxw, 45088768)
+0201.555 (0) Dropbox chunked upload: 100 % uploaded (acBufNtIr1RersURlQHAxw, 46117293)
+0204.664 (0) Recording as successfully uploaded: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip (8bb8facd153d1f0df7325c35fad9703b)
+0204.682 (0) Deleting local file: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip: OK
+0204.684 (0) Dropbox: File upload success (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-plugins.zip): 45036 Kb in 135s (332 Kb/s)
+0205.693 (0) Dropbox quota usage: normal=725.2 Mb, shared=0 Mb, total=3968 Mb, available=3242.8 Mb
+0205.696 (0) Dropbox: Attempt to upload: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip to: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip
+0208.779 (0) Dropbox chunked upload: 18.6 % uploaded (QORZmSK00jDx0wUiETzPnA, 1048576)
+0211.828 (0) Dropbox chunked upload: 37.3 % uploaded (QORZmSK00jDx0wUiETzPnA, 2097152)
+0214.962 (0) Dropbox chunked upload: 55.9 % uploaded (QORZmSK00jDx0wUiETzPnA, 3145728)
+0218.830 (0) Dropbox chunked upload: 74.5 % uploaded (QORZmSK00jDx0wUiETzPnA, 4194304)
+0221.617 (0) Dropbox chunked upload: 93.1 % uploaded (QORZmSK00jDx0wUiETzPnA, 5242880)
+0224.292 (0) Dropbox chunked upload: 100 % uploaded (QORZmSK00jDx0wUiETzPnA, 5628757)
+0227.122 (0) Recording as successfully uploaded: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip (8b6739e5e648936011401fbd12b1058f)
+0227.130 (0) Deleting local file: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip: OK
+0227.131 (0) Dropbox: File upload success (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-themes.zip): 5496 Kb in 21s (256 Kb/s)
+0229.199 (0) Dropbox quota usage: normal=730.5 Mb, shared=0 Mb, total=3968 Mb, available=3237.5 Mb
+0229.202 (0) Dropbox: Attempt to upload: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip to: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip
+0232.751 (0) Dropbox chunked upload: 1.9 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 1048576)
+0235.753 (0) Dropbox chunked upload: 3.8 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 2097152)
+0239.081 (0) Dropbox chunked upload: 5.8 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 3145728)
+0242.492 (0) Dropbox chunked upload: 7.7 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 4194304)
+0245.388 (0) Dropbox chunked upload: 9.6 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 5242880)
+0248.925 (0) Dropbox chunked upload: 11.5 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 6291456)
+0252.139 (0) Dropbox chunked upload: 13.4 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 7340032)
+0255.390 (0) The scheduled resumption is within 45 seconds - will reschedule
+0255.393 (0) Rescheduling resumption 1: moving to 345 seconds from now (1413650301)
+0255.398 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0255.399 (0) Dropbox chunked upload: 15.4 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 8388608)
+0258.161 (0) Dropbox chunked upload: 17.3 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 9437184)
+0261.042 (0) Dropbox chunked upload: 19.2 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 10485760)
+0264.308 (0) Dropbox chunked upload: 21.1 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 11534336)
+0267.949 (0) Dropbox chunked upload: 23.1 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 12582912)
+0270.699 (0) Dropbox chunked upload: 25 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 13631488)
+0274.483 (0) Dropbox chunked upload: 26.9 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 14680064)
+0278.002 (0) Dropbox chunked upload: 28.8 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 15728640)
+0281.426 (0) Dropbox chunked upload: 30.7 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 16777216)
+0284.176 (0) Dropbox chunked upload: 32.7 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 17825792)
+0287.243 (0) Dropbox chunked upload: 34.6 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 18874368)
+0290.475 (0) Dropbox chunked upload: 36.5 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 19922944)
+0293.800 (0) Dropbox chunked upload: 38.4 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 20971520)
+0296.630 (0) Dropbox chunked upload: 40.3 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 22020096)
+0299.660 (0) Dropbox chunked upload: 42.3 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 23068672)
+0302.958 (0) Dropbox chunked upload: 44.2 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 24117248)
+0306.613 (0) Dropbox chunked upload: 46.1 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 25165824)
+0309.507 (0) Dropbox chunked upload: 48 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 26214400)
+0312.362 (0) Dropbox chunked upload: 50 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 27262976)
+0315.396 (0) The time we have been running (315.4) is approaching the resumption interval (345) - increasing resumption interval to 346
+0315.400 (0) Dropbox chunked upload: 51.9 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 28311552)
+0318.737 (0) The time we have been running (318.7) is approaching the resumption interval (346) - increasing resumption interval to 349
+0318.740 (0) Dropbox chunked upload: 53.8 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 29360128)
+0321.978 (0) The time we have been running (322) is approaching the resumption interval (349) - increasing resumption interval to 352
+0321.981 (0) Dropbox chunked upload: 55.7 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 30408704)
+0325.145 (0) The time we have been running (325.1) is approaching the resumption interval (352) - increasing resumption interval to 356
+0325.148 (0) Dropbox chunked upload: 57.6 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 31457280)
+0328.289 (0) The time we have been running (328.3) is approaching the resumption interval (356) - increasing resumption interval to 359
+0328.293 (0) Dropbox chunked upload: 59.6 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 32505856)
+0331.678 (0) The time we have been running (331.7) is approaching the resumption interval (359) - increasing resumption interval to 362
+0331.681 (0) Dropbox chunked upload: 61.5 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 33554432)
+0334.499 (0) The time we have been running (334.5) is approaching the resumption interval (362) - increasing resumption interval to 365
+0334.502 (0) Dropbox chunked upload: 63.4 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 34603008)
+0337.448 (0) The time we have been running (337.4) is approaching the resumption interval (365) - increasing resumption interval to 368
+0337.452 (0) Dropbox chunked upload: 65.3 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 35651584)
+0341.535 (0) The time we have been running (341.5) is approaching the resumption interval (368) - increasing resumption interval to 372
+0341.539 (0) Dropbox chunked upload: 67.2 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 36700160)
+0344.745 (0) The time we have been running (344.7) is approaching the resumption interval (372) - increasing resumption interval to 375
+0344.748 (0) Dropbox chunked upload: 69.2 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 37748736)
+0348.430 (0) The time we have been running (348.4) is approaching the resumption interval (375) - increasing resumption interval to 379
+0348.434 (0) Dropbox chunked upload: 71.1 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 38797312)
+0351.428 (0) The time we have been running (351.4) is approaching the resumption interval (379) - increasing resumption interval to 382
+0351.431 (0) Dropbox chunked upload: 73 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 39845888)
+0354.466 (0) The time we have been running (354.5) is approaching the resumption interval (382) - increasing resumption interval to 385
+0354.470 (0) Dropbox chunked upload: 74.9 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 40894464)
+0357.996 (0) The time we have been running (358) is approaching the resumption interval (385) - increasing resumption interval to 388
+0357.999 (0) Dropbox chunked upload: 76.9 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 41943040)
+0360.759 (0) The time we have been running (360.8) is approaching the resumption interval (388) - increasing resumption interval to 391
+0360.762 (0) Dropbox chunked upload: 78.8 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 42991616)
+0363.582 (0) The time we have been running (363.6) is approaching the resumption interval (391) - increasing resumption interval to 394
+0363.585 (0) Dropbox chunked upload: 80.7 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 44040192)
+0366.855 (0) The time we have been running (366.8) is approaching the resumption interval (394) - increasing resumption interval to 397
+0366.859 (0) Dropbox chunked upload: 82.6 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 45088768)
+0370.399 (0) The time we have been running (370.4) is approaching the resumption interval (397) - increasing resumption interval to 401
+0370.403 (0) Dropbox chunked upload: 84.5 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 46137344)
+0373.439 (0) The time we have been running (373.4) is approaching the resumption interval (401) - increasing resumption interval to 404
+0373.443 (0) Dropbox chunked upload: 86.5 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 47185920)
+0376.289 (0) The time we have been running (376.3) is approaching the resumption interval (404) - increasing resumption interval to 407
+0376.294 (0) Dropbox chunked upload: 88.4 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 48234496)
+0380.358 (0) The time we have been running (380.4) is approaching the resumption interval (407) - increasing resumption interval to 411
+0380.362 (0) Dropbox chunked upload: 90.3 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 49283072)
+0385.064 (0) The time we have been running (385.1) is approaching the resumption interval (411) - increasing resumption interval to 416
+0385.067 (0) Dropbox chunked upload: 92.2 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 50331648)
+0388.181 (0) The time we have been running (388.2) is approaching the resumption interval (416) - increasing resumption interval to 419
+0388.185 (0) Dropbox chunked upload: 94.1 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 51380224)
+0391.889 (0) The time we have been running (391.9) is approaching the resumption interval (419) - increasing resumption interval to 422
+0391.892 (0) Dropbox chunked upload: 96.1 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 52428800)
+0394.992 (0) The time we have been running (395) is approaching the resumption interval (422) - increasing resumption interval to 425
+0394.995 (0) Dropbox chunked upload: 98 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 53477376)
+0398.000 (0) The time we have been running (398) is approaching the resumption interval (425) - increasing resumption interval to 428
+0398.004 (0) Dropbox chunked upload: 99.9 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 54525952)
+0399.350 (0) The time we have been running (399.3) is approaching the resumption interval (428) - increasing resumption interval to 430
+0399.354 (0) Dropbox chunked upload: 100 % uploaded (hFL8kAGj6roSUtp8SnYNjg, 54576098)
+0400.789 (0) Recording as successfully uploaded: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip (48739debfb4ff2ab6129a1a96418c454)
+0400.809 (0) Deleting local file: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip: OK
+0400.810 (0) Dropbox: File upload success (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-uploads.zip): 53296 Kb in 171s (310 Kb/s)
+0401.845 (0) Dropbox quota usage: normal=782.6 Mb, shared=0 Mb, total=3968 Mb, available=3185.4 Mb
+0401.848 (0) Dropbox: Attempt to upload: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-others.zip to: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-others.zip
+0404.350 (0) The time we have been running (404.3) is approaching the resumption interval (430) - increasing resumption interval to 435
+0404.353 (0) Dropbox chunked upload: 7.3 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 1048576)
+0407.486 (0) The time we have been running (407.5) is approaching the resumption interval (435) - increasing resumption interval to 438
+0407.489 (0) Dropbox chunked upload: 14.7 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 2097152)
+0410.841 (0) The time we have been running (410.8) is approaching the resumption interval (438) - increasing resumption interval to 441
+0410.844 (0) Dropbox chunked upload: 22 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 3145728)
+0418.521 (0) The time we have been running (418.5) is approaching the resumption interval (441) - increasing resumption interval to 449
+0418.524 (0) Dropbox chunked upload: 29.3 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 4194304)
+0421.055 (0) The time we have been running (421) is approaching the resumption interval (449) - increasing resumption interval to 452
+0421.058 (0) Dropbox chunked upload: 36.7 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 5242880)
+0423.854 (0) The time we have been running (423.8) is approaching the resumption interval (452) - increasing resumption interval to 454
+0423.858 (0) Dropbox chunked upload: 44 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 6291456)
+0427.025 (0) The time we have been running (427) is approaching the resumption interval (454) - increasing resumption interval to 458
+0427.030 (0) Dropbox chunked upload: 51.3 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 7340032)
+0430.810 (0) The time we have been running (430.8) is approaching the resumption interval (458) - increasing resumption interval to 461
+0430.813 (0) Dropbox chunked upload: 58.7 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 8388608)
+0433.437 (0) The time we have been running (433.4) is approaching the resumption interval (461) - increasing resumption interval to 464
+0433.441 (0) Dropbox chunked upload: 66 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 9437184)
+0436.113 (0) The time we have been running (436.1) is approaching the resumption interval (464) - increasing resumption interval to 467
+0436.116 (0) Dropbox chunked upload: 73.4 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 10485760)
+0438.860 (0) The time we have been running (438.9) is approaching the resumption interval (467) - increasing resumption interval to 469
+0438.864 (0) Dropbox chunked upload: 80.7 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 11534336)
+0442.572 (0) The time we have been running (442.6) is approaching the resumption interval (469) - increasing resumption interval to 473
+0442.575 (0) Dropbox chunked upload: 88 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 12582912)
+0445.023 (0) The time we have been running (445) is approaching the resumption interval (473) - increasing resumption interval to 476
+0445.026 (0) Dropbox chunked upload: 95.4 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 13631488)
+0447.630 (0) The time we have been running (447.6) is approaching the resumption interval (476) - increasing resumption interval to 478
+0447.634 (0) Dropbox chunked upload: 100 % uploaded (JNq4pp6KtBqEAKEOd1tk0g, 14294604)
+0449.326 (0) Recording as successfully uploaded: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-others.zip (65222739d1a9da6e58f305319b8b3ab8)
+0449.336 (0) Deleting local file: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-others.zip: OK
+0449.338 (0) Dropbox: File upload success (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-others.zip): 13959 Kb in 47s (293 Kb/s)
+0450.355 (0) Dropbox quota usage: normal=796.2 Mb, shared=0 Mb, total=3968 Mb, available=3171.8 Mb
+0450.359 (0) Dropbox: Attempt to upload: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz to: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz
+0452.265 (0) The time we have been running (452.3) is approaching the resumption interval (478) - increasing resumption interval to 483
+0452.268 (0) Dropbox chunked upload: 100 % uploaded (fR5Y4BxTHEEnDBJcuByziw, 330547)
+0453.544 (0) Recording as successfully uploaded: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz (2a4f60803bb85686473570eec33ebe18)
+0453.551 (0) Deleting local file: backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz: OK
+0453.553 (0) Dropbox: File upload success (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz): 322 Kb in 3s (101 Kb/s)
+0453.556 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=7, retain_db=7
+0453.558 (0) Number of backup sets in history: 8
+0453.561 (0) Examining backup set with datestamp: 1413649701 (Oct 18 2014 16:28:21)
+0453.562 (0) 1413649701: db: this set includes a database (backup_2014-10-18-1828_Hof_Biergarten_Grenzebach_in_Sti_63f8445e2a6e-db.gz); db count is now 1
+0453.568 (0) The time we have been running (453.6) is approaching the resumption interval (483) - increasing resumption interval to 484
+0453.572 (0) 1413649701: this backup set remains non-empty (1/1); will retain in history
+0453.573 (0) Examining backup set with datestamp: 1413544733 (Oct 17 2014 11:18:53)
+0453.575 (0) 1413544733: db: this set includes a database (backup_2014-10-17-1318_Hof_Biergarten_Grenzebach_in_Sti_e987c45e9f5d-db.gz); db count is now 2
+0453.578 (0) 1413544733: this backup set remains non-empty (1/1); will retain in history
+0453.579 (0) Examining backup set with datestamp: 1413317878 (Oct 14 2014 20:17:58)
+0453.581 (0) 1413317878: db: this set includes a database (backup_2014-10-14-2217_Hof_Biergarten_Grenzebach_in_Sti_d850232f8540-db.gz); db count is now 3
+0453.584 (0) 1413317878: this backup set remains non-empty (1/1); will retain in history
+0453.586 (0) Examining backup set with datestamp: 1413205282 (Oct 13 2014 13:01:22)
+0453.587 (0) 1413205282: db: this set includes a database (backup_2014-10-13-1501_Hof_Biergarten_Grenzebach_in_Sti_4d84a4262870-db.gz); db count is now 4
+0453.591 (0) 1413205282: this backup set remains non-empty (1/1); will retain in history
+0453.592 (0) Examining backup set with datestamp: 1413055656 (Oct 11 2014 19:27:36)
+0453.594 (0) 1413055656: db: this set includes a database (backup_2014-10-11-2127_Hof_Biergarten_Grenzebach_in_Sti_8bef07d84dbf-db.gz); db count is now 5
+0453.597 (0) 1413055656: this backup set remains non-empty (1/1); will retain in history
+0453.599 (0) Examining backup set with datestamp: 1413042791 (Oct 11 2014 15:53:11)
+0453.600 (0) 1413042791: db: this set includes a database (backup_2014-10-11-1753_Hof_Biergarten_Grenzebach_in_Sti_35c1f5769929-db.gz); db count is now 6
+0453.604 (0) 1413042791: this backup set remains non-empty (1/1); will retain in history
+0453.605 (0) Examining backup set with datestamp: 1413038423 (Oct 11 2014 14:40:23)
+0453.607 (0) 1413038423: db: this set includes a database (backup_2014-10-11-1640_Hof_Biergarten_Grenzebach_in_Sti_231181de892e-db.gz); db count is now 7
+0453.610 (0) 1413038423: this backup set remains non-empty (1/1); will retain in history
+0453.612 (0) Examining backup set with datestamp: 1413023755 (Oct 11 2014 10:35:55)
+0453.613 (0) 1413023755: db: this set includes a database (backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-db.gz); db count is now 8
+0453.615 (0) 1413023755: db: over retain limit (7); will delete this database
+0453.617 (0) Delete file: backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-db.gz, service=dropbox
+0453.619 (0) Dropbox: request deletion: backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-db.gz
+0454.614 (0) Dropbox error: Path '/backup_2014-10-11-1235_hof_biergarten_grenzebach_in_sti_9a0dc877d50f-db.gz' not found (line: 171, file: /webspace/04/85842/hof-biergarten.de/wp-content/plugins/updraftplus/includes/Dropbox/OAuth/Consumer/Curl.php)
+0454.621 (0) The time we have been running (454.6) is approaching the resumption interval (484) - increasing resumption interval to 485
+0454.624 (0) plugins: 1413023755: over retain limit (7); will delete this file (backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-plugins.zip)
+0454.626 (0) themes: 1413023755: over retain limit (7); will delete this file (backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-themes.zip)
+0454.628 (0) uploads: 1413023755: over retain limit (7); will delete this file (backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-uploads.zip)
+0454.629 (0) others: 1413023755: over retain limit (7); will delete this file (backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-others.zip)
+0454.631 (0) Delete file: backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-plugins.zip, service=dropbox
+0454.633 (0) Delete file: backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-themes.zip, service=dropbox
+0454.635 (0) Delete file: backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-uploads.zip, service=dropbox
+0454.637 (0) Delete file: backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-others.zip, service=dropbox
+0454.639 (0) Dropbox: request deletion: backup_2014-10-11-1235_Hof_Biergarten_Grenzebach_in_Sti_9a0dc877d50f-plugins.zip
+0455.657 (0) Dropbox error: Path '/backup_2014-10-11-1235_hof_biergarten_grenzebach_in_sti_9a0dc877d50f-plugins.zip' not found (line: 171, file: /webspace/04/85842/hof-biergarten.de/wp-content/plugins/updraftplus/includes/Dropbox/OAuth/Consumer/Curl.php)
+0455.664 (0) The time we have been running (455.7) is approaching the resumption interval (485) - increasing resumption interval to 486
+0455.668 (0) 1413023755: this backup set is now empty; will remove from history
+0455.670 (0) 1413023755: deleting log file (log.9a0dc877d50f.txt)
+0455.673 (0) Retain: saving new backup history (sets now: 7) and finishing retain operation
+0455.677 (0) Resume backup (63f8445e2a6e, 0): finish run
+0455.681 (0) Decremented the semaphore (fd) by 1
+0455.682 (0) Semaphore (fd) unlocked
+0455.684 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0455.689 (0) The backup apparently succeeded and is now complete
+0455.692 (0) Fetching RSS news feed
